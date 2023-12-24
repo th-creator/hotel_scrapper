@@ -1,0 +1,3843 @@
+[{
+  "order": 1,
+  "url": "https://www.booking.com/hotel/ma/calme-et-spacieux-appart-a-l-hivernage-marrakech.en-gb.html?selected_currency=USD&changed_currency=1&lang=en-gb&group_adults=2&no_rooms=1&order=distance_from_search&nflt=price%3DUSD-0-999999-1",
+  "name": "CALME ET SPACIEUX APPART A L’HIVERNAGE MARRAKECH",
+  "type": "apartment",
+  "description": "Located in Marrakech, 1.5 km from Djemaa El Fna and 1.6 km from Mouassine Museum, CALME ET SPACIEUX APPART A L’HIVERNAGE MARRAKECH provides air-conditioned accommodation with a balcony and free WiFi. This apartment also features a private pool. The property is non-smoking and is situated 1.2 km from Koutoubia Mosque.\n\nThe apartment is composed of 3 bedrooms, a fully equipped kitchen, and 3 bathrooms. Towels and bed linen are featured in the apartment.\n\nPopular points of interest near the apartment include Majorelle Gardens, Le Jardin Secret and Yves Saint Laurent Museum. The nearest airport is Marrakech-Menara Airport, 4 km from CALME ET SPACIEUX APPART A L’HIVERNAGE MARRAKECH.",
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "rating": 8,
+  "reviews": 1,
+  "breakfast": null,
+  "checkIn": "From 15:00",
+  "checkOut": "Until 12:00",
+  "location": {
+    "lat": "31.6295418",
+    "lng": "-8.0007901"
+  },
+  "address": {
+    "full": "Rue El Mahjoub Ermiza, 40000 Marrakech, Morocco",
+    "postalCode": "40000",
+    "street": "Rue El Mahjoub Ermiza",
+    "country": "Morocco",
+    "region": "Marrakech-Safi"
+  },
+  "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367734.jpg?k=87ea39b1f5e5a965fa78fca17ddfc07c9db91cc3c077a8bcd4c707df0d245ef4&o=&hp=1",
+  "rooms": [],
+  "images": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367734.jpg?k=87ea39b1f5e5a965fa78fca17ddfc07c9db91cc3c077a8bcd4c707df0d245ef4&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367785.jpg?k=bf99b711335939d53dabf94da26eedb05c39a5113caf455a4376bbcd863650c7&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367789.jpg?k=21f74fddf7decdb057e118665dfd44239e29321d6c92b7e661db6ed6c25b2b78&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367792.jpg?k=e594d29b2dbfa37dd503e3786a5df4912536db75e034f37cebde744bd463b2d4&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367793.jpg?k=55f210efb7bac8d9aaa0803c79b4ad3ae4caf5a1e2a342bcd9438160229a0e8f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367795.jpg?k=cfe94f6f174a5670238485384d99fbb1a11b991016ffa15581ded23ee9930dbc&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367801.jpg?k=610d86230010dd29e09196551289845c17bc442159fe5fd6626ce82110c1b20e&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367802.jpg?k=cb455d53ea7392177f8772f85b3aa482651b49341a32ad611e693f536081c054&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367805.jpg?k=a1f856fdaf3f888c5e20e73d89da00726cfbb3cb2e358e746027abf6ad586ce8&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367809.jpg?k=8926b032793d87c3991d0d00b20e4c900b26f2f72550ed544367ecaa63e9c598&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367811.jpg?k=b2afcadc9f0b6be5d08729559dc3bd010522dac7fbeecfdf7f40c42808f0c89a&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367815.jpg?k=3a107ceb627789509123310b59a54ad85f5c8d33da8b0cdaf486863824c6f415&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367816.jpg?k=7808a5e8cd8620d66c1dba791385e64a0a0617624452d7934e3734f502655906&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367820.jpg?k=b84dbc13fdc62f784a94f310052287908e92909cde567238f16374a2182b3b25&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367823.jpg?k=fb82eaa74c2bc461572288568c9fd13e6d7b9f382b8cab8723bd5bef2ba67a25&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367826.jpg?k=241bf6ccacb0b7e6f24d98752136c60dd2712582c8a929623992fc9bf9e382a0&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/459367734.jpg?k=87ea39b1f5e5a965fa78fca17ddfc07c9db91cc3c077a8bcd4c707df0d245ef4&o=&hp=1"
+  ],
+  "categoryReviews": [
+    {
+      "title": "Staff",
+      "score": 10
+    },
+    {
+      "title": "Facilities",
+      "score": 10
+    },
+    {
+      "title": "Cleanliness",
+      "score": 10
+    },
+    {
+      "title": "Comfort",
+      "score": 10
+    },
+    {
+      "title": "Value for money",
+      "score": 10
+    },
+    {
+      "title": "Location",
+      "score": 10
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Parking",
+      "overview": "Free public parking is possible on site (reservation is not needed).",
+      "facilities": []
+    },
+    {
+      "name": "Internet",
+      "overview": "WiFi is available in all areas and is free of charge.",
+      "facilities": []
+    },
+    {
+      "name": "Kitchen",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Kitchen",
+          "additionalInfo": []
+        },
+        {
+          "name": "Washing machine",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Bedroom",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Linen",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Bathroom",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Toilet paper",
+          "additionalInfo": []
+        },
+        {
+          "name": "Towels",
+          "additionalInfo": []
+        },
+        {
+          "name": "Hairdryer",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Media & Technology",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Flat-screen TV",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Room Amenities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Heating",
+          "additionalInfo": []
+        },
+        {
+          "name": "Hot tub",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoors",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Private pool",
+          "additionalInfo": []
+        },
+        {
+          "name": "Balcony",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Swimming Pool",
+      "overview": null,
+      "facilities": []
+    },
+    {
+      "name": "Miscellaneous",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Air conditioning",
+          "additionalInfo": []
+        },
+        {
+          "name": "Non-smoking throughout",
+          "additionalInfo": []
+        },
+        {
+          "name": "Lift",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Languages spoken",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Arabic",
+          "additionalInfo": []
+        },
+        {
+          "name": "English",
+          "additionalInfo": []
+        },
+        {
+          "name": "French",
+          "additionalInfo": []
+        }
+      ]
+    }
+  ],
+  "hotelChain": null,
+  "reviewScoresDistribution": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 1,
+    "5": 0
+  },
+  "timeOfScrapeISO": "2023-12-24T10:24:25.089Z"
+},
+{
+  "order": 4,
+  "url": "https://www.booking.com/hotel/ma/appartement-dans-triangle-d-or.en-gb.html?selected_currency=USD&changed_currency=1&lang=en-gb&group_adults=2&no_rooms=1&order=distance_from_search&nflt=price%3DUSD-0-999999-1",
+  "name": "Appartement dans triangle d’or",
+  "type": "apartment",
+  "description": "Appartement dans triangle d’or features a balcony and is set in Marrakech, within just 1.8 km of Mouassine Museum and 1.4 km of Koutoubia Mosque. The property is situated 2 km from Yves Saint Laurent Museum, 2.8 km from Bahia Palace and 3.4 km from The Orientalist Museum of Marrakech. Free WiFi is available throughout the property and Djemaa El Fna is 1.7 km away.\n\nLeading onto a terrace, this air-conditioned apartment comes with 2 separate bedrooms and a fully equipped kitchen. Towels and bed linen are featured in the apartment.\n\nPopular points of interest near the apartment include Majorelle Gardens, Le Jardin Secret and Marrakesh Train Station. The nearest airport is Marrakech-Menara Airport, 3 km from Appartement dans triangle d’or.",
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "rating": 10,
+  "reviews": 1,
+  "breakfast": null,
+  "checkIn": "From 12:00",
+  "checkOut": "Until 14:00",
+  "location": {
+    "lat": "31.6284212",
+    "lng": "-8.0034912"
+  },
+  "address": {
+    "full": "Avenue Echouhada, Hivernage, 40000 Marrakech, Morocco",
+    "postalCode": "40000",
+    "street": "Avenue Echouhada",
+    "country": "Morocco",
+    "region": "Marrakech-Safi"
+  },
+  "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469550584.jpg?k=2fb07d8a394afc13826bffaaf59fd56e54bfd4e22518c67add96dd32408a79ac&o=&hp=1",
+  "rooms": [],
+  "images": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469550584.jpg?k=2fb07d8a394afc13826bffaaf59fd56e54bfd4e22518c67add96dd32408a79ac&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469550673.jpg?k=2be2efb0186f28210dede47abc0eba2ae6893932d7845033a658249727107888&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469550678.jpg?k=0d2bee79df4c7e575f68ed08962b9f8baecb0f0d98197a90cfbe5587c3c77f60&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469550684.jpg?k=f0f3cc5a50fbc2b17a79e4b1c274351b06d28679eaa82a4f2b79d6ef7d78d393&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469550690.jpg?k=f3b3aae750b013f8a6f074ce7b9e4ee822384c36aa3c53508c4d2c3ff9dbd040&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469550696.jpg?k=576e305159c7dde1ecdc4bc3cafe865248df77418b40c14ed1eb5ee5933eec17&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/469550584.jpg?k=2fb07d8a394afc13826bffaaf59fd56e54bfd4e22518c67add96dd32408a79ac&o=&hp=1"
+  ],
+  "categoryReviews": [
+    {
+      "title": "Staff",
+      "score": 10
+    },
+    {
+      "title": "Facilities",
+      "score": 10
+    },
+    {
+      "title": "Cleanliness",
+      "score": 10
+    },
+    {
+      "title": "Comfort",
+      "score": 10
+    },
+    {
+      "title": "Value for money",
+      "score": 10
+    },
+    {
+      "title": "Location",
+      "score": 10
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Parking",
+      "overview": "No parking available.",
+      "facilities": []
+    },
+    {
+      "name": "Internet",
+      "overview": "WiFi is available in all areas and is free of charge.",
+      "facilities": []
+    },
+    {
+      "name": "Kitchen",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Kitchen",
+          "additionalInfo": []
+        },
+        {
+          "name": "Washing machine",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Bedroom",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Linen",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Bathroom",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Toilet paper",
+          "additionalInfo": []
+        },
+        {
+          "name": "Towels",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Room Amenities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Heating",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoors",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Balcony",
+          "additionalInfo": []
+        },
+        {
+          "name": "Terrace",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoor & View",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "View",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Air conditioning",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Languages spoken",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Arabic",
+          "additionalInfo": []
+        },
+        {
+          "name": "French",
+          "additionalInfo": []
+        }
+      ]
+    }
+  ],
+  "hotelChain": null,
+  "reviewScoresDistribution": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+  },
+  "timeOfScrapeISO": "2023-12-24T10:24:29.960Z"
+},
+{
+  "order": 3,
+  "url": "https://www.booking.com/hotel/ma/la-fontaine.en-gb.html?selected_currency=USD&changed_currency=1&lang=en-gb&group_adults=2&no_rooms=1&order=distance_from_search&nflt=price%3DUSD-0-999999-1",
+  "name": "La Fontaine",
+  "type": "apartment",
+  "description": "You're eligible for a Genius discount at La Fontaine! To save at this property, all you have to do is sign in.\nFeaturing a spa bath, La Fontaine is located in Marrakech. Complimentary WiFi is provided throughout the property and private parking is available on site. The accommodation provides a 24-hour front desk and a lift for guests.\n\nThe spacious apartment with a balcony and garden views features 2 bedrooms, a living room, a flat-screen TV, an equipped kitchen with an oven and a microwave, and 2 bathrooms with a bidet. The air-conditioned unit at the property features a bath and a dressing room. For added privacy, the accommodation has a private entrance and soundproofing.\n\nGuests at the apartment can enjoy hiking nearby, or make the most of the garden.\n\nPopular points of interest near La Fontaine include Djemaa El Fna, Majorelle Gardens and Mouassine Museum. The nearest airport is Marrakech-Menara Airport, 4 km from the accommodation.",
+  "stars": 3,
+  "price": null,
+  "currency": null,
+  "rating": 8.8,
+  "reviews": 106,
+  "breakfast": null,
+  "checkIn": "From 15:00 to 00:00",
+  "checkOut": "From 06:00 to 12:00",
+  "location": {
+    "lat": "31.6283334",
+    "lng": "-8.0026103"
+  },
+  "address": {
+    "full": "Boulevard Al Yarmouk 10, Hivernage, 40000 Marrakech, Morocco",
+    "postalCode": "40000",
+    "street": "Boulevard Al Yarmouk 10",
+    "country": "Morocco",
+    "region": "Marrakech-Safi"
+  },
+  "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134156024.jpg?k=bf915842431c77000dda13e9602871bcbdd9a85e2e5abd0a648bef75c9c1c557&o=&hp=1",
+  "rooms": [],
+  "images": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134156024.jpg?k=bf915842431c77000dda13e9602871bcbdd9a85e2e5abd0a648bef75c9c1c557&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144391738.jpg?k=3314a654785232e850d91acc81e1f2c6d693dec8ec7d59dfe43fca119f50b71f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144392332.jpg?k=6af1cb28ba65211e2a72c57cc1fa98a6fca1a020615f7079a4e3d4e9393b57d8&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144392057.jpg?k=36c88dc641bfa8d8cb5e066e9d47c7ce838bffa26d8816986e4f54e91ca41e9e&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144392052.jpg?k=1b6c1f0356b8b36123ab07c0b4a341798982f35dd896c2dce867fd58af9245e2&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144392105.jpg?k=ac81724979bf6f16618db99621ca6d17e207056c44858e1003ac1a607d3ddcd5&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131097244.jpg?k=7ec6468c546c46306e4371f17a31c6cad2620f1ce4f2efb52a6c5d681e9b9dfb&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131097234.jpg?k=ba89c57c14290a04207e33e996c657985c74477407a8b135b5099380f098c5d2&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144387839.jpg?k=fa4556afac74698fbc7eb88323d52ee643fad83220552d92e7e6f42a5bf18baa&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144394421.jpg?k=130e4f581f1f93e037fe53dda7e922af7a98791f171cbda53a1a47e8ad84f09f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144394805.jpg?k=21bf8ccf3bd103805f03a434a6aff1da891b4665b4fb5470cb06600dbcaa8458&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144394826.jpg?k=cd65d69fa77bd53c36477fb60b75001daf0aa465ff323e32aaf296f5ee0a3840&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131097243.jpg?k=4ab2bbdacbf1aea23ee0809f6be14c7c2360640a4595af8905abdb898a6bbde7&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144394904.jpg?k=4f99c88acf83c140847f03ae99052783cd14ee02b815076a83f0935da6942fc7&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144395398.jpg?k=ea0d2b64198183bf0eee9622875305c7e2d05dcb3018bc993a7168003f61727c&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144395453.jpg?k=c533745f72052dd79a0d7cbbad6c560448fdc6e45cf0cffbb02d2a9f34d0fda9&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144395242.jpg?k=4b85d6c6dab99a3ca910fb1c3b856b26cc8d410a21bad22d190822ebf54184d5&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144396182.jpg?k=61b15a3549223b6286b0b640be14907a56cbcd6ee66f3dc386b3ea06b0268435&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144396510.jpg?k=3dcfddfb34efab5301509d3ddea2f1bba6296e2ffa41ae8650d6eb53d1babdb5&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144391972.jpg?k=44f78c24ff16059d96a0e1c1675178ee88affc4abbeabd2b92f34fdaff20e0db&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144393971.jpg?k=1463650f5c597eadcd27d696fbc742255721f4904d4ea96357a49d01d6841fe5&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144393953.jpg?k=a1d257871af4b57f5399abf6a3d88cae0f879053f379a08be38a29889c48815b&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144393963.jpg?k=4d63eabfeb1d99b4a0c7f0a05b13063a21c0c6472ee2a410f888fad4d606ae3d&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131097237.jpg?k=ca9920acf502958fc44d05777ecbae79901f670f7aad1d067db8b47da79fd329&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144393837.jpg?k=7f920f04c617a6a549d2e987a634ae16b5d27e459c293f828d09630014dd80da&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144393958.jpg?k=22e4ed12fecfdbf249e3edcff20e29cf17324f5fe6208944192422b28d80593d&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131097235.jpg?k=06bb3ea9bdccf278ddb75d016bd39e9d031dfe6c5b5d8a3a71e4343f4af48298&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144396512.jpg?k=acaafb6dc992ecb1884e88428302464194cc61143e5cd914c2c96302ce79e783&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144396622.jpg?k=3f3e4617790254f184dcbe9e73437f5ea684a3073be5438ff06707ede8d0c730&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144395591.jpg?k=aca2ff5919933089418cf20e8b9385cfd2232954fac78679e1411b253718b558&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144395597.jpg?k=0ff550d9db18bead088f6a59941edfda50ccd32b36d731c3e8abd9c4f4df40d8&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144395615.jpg?k=2b3d461d379c87debfebea0b29f886cf9c10b4f1f8cd10708dd2cda985f3ffd4&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144397140.jpg?k=04715566af58e86317bc535df4e05eb04c6885db47c6d744ddf3a7766c5b6ea3&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144397092.jpg?k=0bc205f8d62757a96db9184f259f2534376f74d03f47076eb5e1899640d4992a&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144397065.jpg?k=941392142ed028ff321cefd0f08c13c868c35b65565f5e573820bb45031509f8&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144397517.jpg?k=b54dcbd5e50ec3e2d31f33b958cf84414ac4f70f50b9a959f10102d0c2f960ce&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144397454.jpg?k=1cad2d0ba3b29f1925599114fcefa130f79addad91ee3abbf3921d28579115c9&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144397379.jpg?k=3e0a9044ace70436ced93600cb60b2d5e06fd40ce44e9b904ca8858b9cd94d0f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144397437.jpg?k=110b708618c126b571d5faddddad5e2ac784bec275a6fa502f9ff997e5bee2ad&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144397473.jpg?k=d8a011ef18ac506634c0567734d364af67f8e1ce8fc845859783a22e02843d85&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144396972.jpg?k=1f6202dfc12199cad7d080530586b364cd53cbc8181b3003a2df330dfa661c58&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144396513.jpg?k=9c35e70104b956717b6f7ad82507b4c48029c3073050e42dd7829aea7df5e8d1&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144397058.jpg?k=c60239aacdb0f7e9fc40f19a2453d75dbdd4ca47ea146d118132244d5aa892ff&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134155859.jpg?k=cdd04a9f67f31d33152949a465e3ddefc644030032d4962bccaadb08dd6a4d16&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131097238.jpg?k=393c2207e2b151f9d9129cc40f62d87e9c9a322f80b3b7f42778093d18423455&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134156024.jpg?k=bf915842431c77000dda13e9602871bcbdd9a85e2e5abd0a648bef75c9c1c557&o=&hp=1"
+  ],
+  "categoryReviews": [
+    {
+      "title": "Staff",
+      "score": 8.9
+    },
+    {
+      "title": "Facilities",
+      "score": 8.7
+    },
+    {
+      "title": "Cleanliness",
+      "score": 9.1
+    },
+    {
+      "title": "Comfort",
+      "score": 9.1
+    },
+    {
+      "title": "Value for money",
+      "score": 9
+    },
+    {
+      "title": "Location",
+      "score": 9.3
+    },
+    {
+      "title": "Free WiFi",
+      "score": 8.8
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Parking",
+      "overview": "Private parking is possible on site (reservation is not needed) and costs € 4 per day.",
+      "facilities": [
+        {
+          "name": "Parking garage",
+          "additionalInfo": []
+        },
+        {
+          "name": "Accessible parking",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Internet",
+      "overview": "WiFi is available in all areas and is free of charge.",
+      "facilities": []
+    },
+    {
+      "name": "Kitchen",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Coffee machine",
+          "additionalInfo": []
+        },
+        {
+          "name": "Cleaning products",
+          "additionalInfo": []
+        },
+        {
+          "name": "Toaster",
+          "additionalInfo": []
+        },
+        {
+          "name": "Stovetop",
+          "additionalInfo": []
+        },
+        {
+          "name": "Oven",
+          "additionalInfo": []
+        },
+        {
+          "name": "Tumble dryer",
+          "additionalInfo": []
+        },
+        {
+          "name": "Kitchenware",
+          "additionalInfo": []
+        },
+        {
+          "name": "Electric kettle",
+          "additionalInfo": []
+        },
+        {
+          "name": "Kitchen",
+          "additionalInfo": []
+        },
+        {
+          "name": "Washing machine",
+          "additionalInfo": []
+        },
+        {
+          "name": "Microwave",
+          "additionalInfo": []
+        },
+        {
+          "name": "Refrigerator",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Bedroom",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Linen",
+          "additionalInfo": []
+        },
+        {
+          "name": "Wardrobe or closet",
+          "additionalInfo": []
+        },
+        {
+          "name": "Dressing room",
+          "additionalInfo": []
+        },
+        {
+          "name": "Extra long beds (> 2 metres)",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Bathroom",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Toilet paper",
+          "additionalInfo": []
+        },
+        {
+          "name": "Towels",
+          "additionalInfo": []
+        },
+        {
+          "name": "Additional bathroom",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bidet",
+          "additionalInfo": []
+        },
+        {
+          "name": "Additional toilet",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bath or shower",
+          "additionalInfo": []
+        },
+        {
+          "name": "Private bathroom",
+          "additionalInfo": []
+        },
+        {
+          "name": "Spa bath",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bath",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Living Area",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Sofa",
+          "additionalInfo": []
+        },
+        {
+          "name": "Seating Area",
+          "additionalInfo": []
+        },
+        {
+          "name": "Desk",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Media & Technology",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Flat-screen TV",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Room Amenities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Socket near the bed",
+          "additionalInfo": []
+        },
+        {
+          "name": "Drying rack for clothing",
+          "additionalInfo": []
+        },
+        {
+          "name": "Clothes rack",
+          "additionalInfo": []
+        },
+        {
+          "name": "Tile/marble floor",
+          "additionalInfo": []
+        },
+        {
+          "name": "Soundproofing",
+          "additionalInfo": []
+        },
+        {
+          "name": "Private entrance",
+          "additionalInfo": []
+        },
+        {
+          "name": "Fan",
+          "additionalInfo": []
+        },
+        {
+          "name": "Ironing facilities",
+          "additionalInfo": []
+        },
+        {
+          "name": "Iron",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Accessibility",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Upper floors accessible by elevator",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoors",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Balcony",
+          "additionalInfo": []
+        },
+        {
+          "name": "Garden",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Activities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Hiking",
+          "additionalInfo": []
+        },
+        {
+          "name": "Golf course (within 3 km)",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoor & View",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "City view",
+          "additionalInfo": []
+        },
+        {
+          "name": "Garden view",
+          "additionalInfo": []
+        },
+        {
+          "name": "View",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Building characteristics",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Private apartment in building",
+          "additionalInfo": []
+        },
+        {
+          "name": "Detached",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Reception services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Invoice provided",
+          "additionalInfo": []
+        },
+        {
+          "name": "Express check-in/check-out",
+          "additionalInfo": []
+        },
+        {
+          "name": "24-hour front desk",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Cleaning services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Daily housekeeping",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Ironing service",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Laundry",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Air conditioning",
+          "additionalInfo": []
+        },
+        {
+          "name": "Non-smoking throughout",
+          "additionalInfo": []
+        },
+        {
+          "name": "Heating",
+          "additionalInfo": []
+        },
+        {
+          "name": "Soundproof rooms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Lift",
+          "additionalInfo": []
+        },
+        {
+          "name": "Family rooms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Non-smoking rooms",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Safety & security",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Key card access",
+          "additionalInfo": []
+        },
+        {
+          "name": "Key access",
+          "additionalInfo": []
+        },
+        {
+          "name": "24-hour security",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Languages spoken",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Arabic",
+          "additionalInfo": []
+        },
+        {
+          "name": "English",
+          "additionalInfo": []
+        },
+        {
+          "name": "French",
+          "additionalInfo": []
+        }
+      ]
+    }
+  ],
+  "hotelChain": null,
+  "reviewScoresDistribution": {
+    "1": 2,
+    "2": 0,
+    "3": 5,
+    "4": 30,
+    "5": 69
+  },
+  "timeOfScrapeISO": "2023-12-24T10:24:31.907Z"
+},
+{
+  "order": 2,
+  "url": "https://www.booking.com/hotel/ma/darsor-marrakech1.en-gb.html?selected_currency=USD&changed_currency=1&lang=en-gb&group_adults=2&no_rooms=1&order=distance_from_search&nflt=price%3DUSD-0-999999-1",
+  "name": "Palais d'hôtes Darsor",
+  "type": "guest_house",
+  "description": "You're eligible for a Genius discount at Palais d'hôtes Darsor! To save at this property, all you have to do is sign in.\nOffering a barbecue and terrace, Darsor is set in Marrakech in the Marrakech-Safi Region, 800 metres from Stadium.\n\nThe rooms come with a flat-screen TV with satellite channels. Some units have a seating area to relax in after a busy day. Enjoy a cup of coffee from your terrace or balcony. Rooms come with a private bathroom fitted with a bath or shower and bidet. For your comfort, you will find bathrobes and free toiletries. Darsor features free WiFi throughout the property.\n\nThere is a 24-hour front desk at the property.\n\nThe nearest airport is Marrakech-Menara Airport, 4 km from the property.",
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "rating": 8.7,
+  "reviews": 615,
+  "breakfast": null,
+  "checkIn": "From 13:00",
+  "checkOut": "Until 11:00",
+  "location": {
+    "lat": "31.6297960",
+    "lng": "-8.0010778"
+  },
+  "address": {
+    "full": "Rue El Mahjoub Ermiza, 40000 Marrakech, Morocco",
+    "postalCode": "40000",
+    "street": "Rue El Mahjoub Ermiza",
+    "country": "Morocco",
+    "region": "Marrakech-Safi"
+  },
+  "image": "https://cf.bstatic.com/images/hotel/max1024x768/991/99145063.jpg",
+  "rooms": [],
+  "images": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/122018404.jpg?k=f00582fa3ca84238ffff818840c96a739357a0d62b0704260b12727d7a708a8d&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99145063.jpg?k=a8f616f68d140aaa4006b62c3386212b1fc68fc3c3e3f45275a0c5ddf9d5d5c9&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99146713.jpg?k=c12ff5eb516f96f0d5a56189bab8b384afbec7472c5538fa6349d87d8d146e86&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99145781.jpg?k=e129ea3e4eb743b02f8053cd2095390a4a26d1b387110d9246b2b8d51bf5df2b&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190510141.jpg?k=9e6715e7969a7c6ef920d61fd5347e56834c873d005b3e4e3e879973d02cedf8&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190510089.jpg?k=1d82fc8452c156a208454c9a70b41089d682e870c378010d476a1584df24d354&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/190510043.jpg?k=53cf689888beca29b100c6ad28fc5ed934530446b60187cf1bc52b6e21252d8f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99144216.jpg?k=5a7a1f1f98658557bba6faa6b220e91eacd46a5ad1ff5099f0538cb1aea4d14e&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99146145.jpg?k=c16ff18f9b00f6536e9a83e541dc43e106403a1e025e5166d78bc86222821b08&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99146150.jpg?k=bc40450a05d18ed23f564cc10e6afd8fcdf7358b6cfaa76043230770503096a2&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/115107735.jpg?k=f0c70d1bfaf7ffe8e1d4bba2209a55ee2b5f4b4ed71c01365f507499737c7a38&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99141435.jpg?k=b4c1420ecadf92ddc40e22ccc3cfddf7d8e0cdffe29c07996c9836bb7140f374&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/112286059.jpg?k=1e51ba58df547aa21d350e3519b273af827d54e4982c2c288229579aba194184&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99146676.jpg?k=b32600e3f2fb85f4912473442f92f359b17b61e8c3e11e65c059a4baffd22a9e&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99146689.jpg?k=359c33e31889e6608751c77aa702e48ba1a9ef4fe4222fdb569a09e3e8c78d2c&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99146697.jpg?k=73b7fdb48fb14e5c732bb067f6f95ad3d9dc8ef2d9f94d22fe4e99bc85ba473c&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99145047.jpg?k=03a63f9c2eed9e0571dd9bc3d940f4e22e17615a454b45067721177fd64151fd&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99145055.jpg?k=40acc958e96c6268f9540b0b3df7dffe6ad1694a352eb24095f6b59f363a6312&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99144221.jpg?k=1ba302403a348b469e8730496d9dd1e67d783b22ad9eb2da04cbf8e0d15f0943&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95564330.jpg?k=846f6f12e52865078b4a8f2360b781f47b92dce9f1ac83a4a83f06e104bfde77&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95802375.jpg?k=f9384becf758800ca25d6ccade4432f5ff210639e7541d80bfe0f5cbf9d41efe&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95795175.jpg?k=84da6802cf652cf8ad6b8c512bb18c51a738103419750fc34d4226f378d51f1e&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95795868.jpg?k=5457fa71d169048d515be38214e960812e655147b53bc12e7c47a95643610879&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95794804.jpg?k=2cbdb8af98902755d6270ee17d3155160398e5a32e19cfed032bffcf56f1abc7&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95794487.jpg?k=5d05c12b830355b1cd5c8db61cd248be4e6dc3cf2f6b1cb010abea332e9d891e&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95793150.jpg?k=a7846e0f38f79c77ce004bd19ab0cec39028a2fe028179ac4a5d834e378b1e39&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95792627.jpg?k=32dac41139d448c9e9e9931fe642a96d4cd3190f3b40f2f999e0e73b1352d231&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95792441.jpg?k=0c35f1d60e0cf9971738a2009ef7bade9516c94e056f0b918aea22fa0458b279&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95792140.jpg?k=bd75f3ad8eca2f28086df067c9cb9a931ee0f7f2df592f4b5e0013b61553e382&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95791890.jpg?k=82bf1d0bc8e15b53e84d449e7df160b8edf0a644d79ef26e78c6dfcae678029c&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95803118.jpg?k=9b1a9dfdee94d0c30399d9a6c7f992e691c937e67ecb1a3dce9247eb5b38d497&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99142149.jpg?k=4f42e4ee7026cb38cc07162203a8907c788c7a5ea901a0cbf411bb19a88cd234&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95771275.jpg?k=70501ccd6c7f675938f12787838f119664102db8d127b7f89bdb359cfad05266&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95774594.jpg?k=1f365b6b978e628c70d0a129076c9bad9c75a9cd12cdd154603678837d0df55a&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99142835.jpg?k=75d35258bc002f1f8281993527dee1ce7bf12ef5b76609be5c77f1227cb782bd&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99143208.jpg?k=916d74380018e2b44ee76169480c1731f810e38f6ce5eb1c7d13397912625c18&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95771675.jpg?k=1aa5f2fbe2ffe31abc757b637eca1346321b52420175f747ec62ae0cf07cbdd5&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95772398.jpg?k=158dead929c4f4365269fc590f29b735574f6382aaca74ffca52eb1342bd7954&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/95779232.jpg?k=7703e9d0480db38af9a281ba5ec60e6dd2f432feeb66c0d7faeffcc788da5b74&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99144084.jpg?k=ff5ea5a34bd2420ac67559ec2bb6787a87af07ee783deadc578a08a8f44ede03&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99146292.jpg?k=c7ab45492a148a1b996f22a5793e9671faa63044f0df114e677927b357966ca4&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99146296.jpg?k=4a8593b8262fa1d21d8d1046fb293347c52869b8bd744add3e3fdf33d53aa31f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99146297.jpg?k=bd76181e7918e8af3acdb1098b51b621e85e7fb834168f8fc8208b4d58a69278&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99146303.jpg?k=602dc8480106ebead68beb61645ec71fa72202fa6a39b7b51d83f22f1d353361&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/99146307.jpg?k=fdcf4219e87db5a0fbce5528149678902951d9ab98c0cdbf7fc79c15f4f279cf&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/122018404.jpg?k=f00582fa3ca84238ffff818840c96a739357a0d62b0704260b12727d7a708a8d&o=&hp=1"
+  ],
+  "categoryReviews": [
+    {
+      "title": "Staff",
+      "score": 9.3
+    },
+    {
+      "title": "Facilities",
+      "score": 8.7
+    },
+    {
+      "title": "Cleanliness",
+      "score": 9.1
+    },
+    {
+      "title": "Comfort",
+      "score": 9.1
+    },
+    {
+      "title": "Value for money",
+      "score": 8.6
+    },
+    {
+      "title": "Location",
+      "score": 8.9
+    },
+    {
+      "title": "Free WiFi",
+      "score": 8
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Outdoors",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Outdoor furniture",
+          "additionalInfo": []
+        },
+        {
+          "name": "Sun terrace",
+          "additionalInfo": []
+        },
+        {
+          "name": "Terrace",
+          "additionalInfo": []
+        },
+        {
+          "name": "Garden",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Pets",
+      "overview": "Pets are allowed. No extra charges.",
+      "facilities": []
+    },
+    {
+      "name": "Activities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Billiards",
+          "additionalInfo": []
+        },
+        {
+          "name": "Tennis court",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Food & Drink",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Restaurant",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Internet",
+      "overview": "WiFi is available in the rooms and is free of charge.",
+      "facilities": []
+    },
+    {
+      "name": "Parking",
+      "overview": "No parking available.",
+      "facilities": []
+    },
+    {
+      "name": "Reception services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Invoice provided",
+          "additionalInfo": []
+        },
+        {
+          "name": "Private check-in/check-out",
+          "additionalInfo": []
+        },
+        {
+          "name": "Concierge service",
+          "additionalInfo": []
+        },
+        {
+          "name": "Luggage storage",
+          "additionalInfo": []
+        },
+        {
+          "name": "Tour desk",
+          "additionalInfo": []
+        },
+        {
+          "name": "Currency exchange",
+          "additionalInfo": []
+        },
+        {
+          "name": "Express check-in/check-out",
+          "additionalInfo": []
+        },
+        {
+          "name": "24-hour front desk",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Entertainment and family services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Babysitting/child services",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cleaning services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Daily housekeeping",
+          "additionalInfo": []
+        },
+        {
+          "name": "Ironing service",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Dry cleaning",
+          "additionalInfo": []
+        },
+        {
+          "name": "Laundry",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business facilities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Fax/photocopying",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Safety & security",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Fire extinguishers",
+          "additionalInfo": []
+        },
+        {
+          "name": "CCTV outside property",
+          "additionalInfo": []
+        },
+        {
+          "name": "CCTV in common areas",
+          "additionalInfo": []
+        },
+        {
+          "name": "Smoke alarms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Key card access",
+          "additionalInfo": []
+        },
+        {
+          "name": "24-hour security",
+          "additionalInfo": []
+        },
+        {
+          "name": "Safety deposit box",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "General",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Shuttle service",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Shared lounge/TV area",
+          "additionalInfo": []
+        },
+        {
+          "name": "Designated smoking area",
+          "additionalInfo": []
+        },
+        {
+          "name": "Air conditioning",
+          "additionalInfo": []
+        },
+        {
+          "name": "Heating",
+          "additionalInfo": []
+        },
+        {
+          "name": "Car hire",
+          "additionalInfo": []
+        },
+        {
+          "name": "Lift",
+          "additionalInfo": []
+        },
+        {
+          "name": "Airport shuttle",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Room service",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoor swimming pool",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Opening times",
+          "additionalInfo": []
+        },
+        {
+          "name": "Open all year",
+          "additionalInfo": []
+        },
+        {
+          "name": "Adult only",
+          "additionalInfo": []
+        },
+        {
+          "name": "Plunge pool",
+          "additionalInfo": []
+        },
+        {
+          "name": "Pool/beach towels",
+          "additionalInfo": []
+        },
+        {
+          "name": "Sun loungers or beach chairs",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Wellness",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Sun umbrellas",
+          "additionalInfo": []
+        },
+        {
+          "name": "Sun loungers or beach chairs",
+          "additionalInfo": []
+        },
+        {
+          "name": "Solarium",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Languages spoken",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Arabic",
+          "additionalInfo": []
+        },
+        {
+          "name": "English",
+          "additionalInfo": []
+        },
+        {
+          "name": "French",
+          "additionalInfo": []
+        }
+      ]
+    }
+  ],
+  "hotelChain": null,
+  "reviewScoresDistribution": {
+    "1": 14,
+    "2": 9,
+    "3": 31,
+    "4": 147,
+    "5": 414
+  },
+  "timeOfScrapeISO": "2023-12-24T10:24:32.368Z"
+},
+{
+  "order": 5,
+  "url": "https://www.booking.com/hotel/ma/le-grand-imilchil.en-gb.html?selected_currency=USD&changed_currency=1&lang=en-gb&group_adults=2&no_rooms=1&order=distance_from_search&nflt=price%3DUSD-0-999999-1",
+  "name": "Hotel Le Grand Imilchil",
+  "type": "hotel",
+  "description": "Hotel Le Grand Imilchil is located in Marrakech. Guests can enjoy the on-site restaurant. Private parking is available on site. Hotel Le Grand Imilchil features free WiFi throughout the property.\n\nEvery room has a flat-screen TV. Some rooms feature a seating area to relax in after a busy day. Certain units include views of the mountain or pool. The rooms are fitted with a private bathroom fitted with a bath.\n\nThere is a 24-hour front desk at the property. The hotel also offers car hire.\n\nPalais de La Bahia is 1.6 km from Hotel Le Grand Imilchil. Marrakech-Menara Airport is 4 km from the property.",
+  "stars": 3,
+  "price": null,
+  "currency": null,
+  "rating": 6.7,
+  "reviews": 3032,
+  "breakfast": null,
+  "checkIn": "From 15:00 to 23:30",
+  "checkOut": "From 04:00 to 12:00",
+  "location": {
+    "lat": "31.6276373",
+    "lng": "-8.0035733"
+  },
+  "address": {
+    "full": "Avenue Echouhada, Hivernage, 40000 Marrakech, Morocco",
+    "postalCode": "40000",
+    "street": "Avenue Echouhada",
+    "country": "Morocco",
+    "region": "Marrakech-Safi"
+  },
+  "image": "https://cf.bstatic.com/images/hotel/max1024x768/850/85069048.jpg",
+  "rooms": [],
+  "images": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85230745.jpg?k=91e9b31a1687a141f290f2e81cc442ca30bb459024ec8758a047581689165ef0&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309766366.jpg?k=346f0fe9da7cf44ae7674dd64b46b785052f4c7a81c8c9245e062f3ac46aba14&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85068802.jpg?k=b99644a9c735f2e01830cd2dbb03e4f9b751bdb7c9c07d807696a63b215c9ff5&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85068809.jpg?k=e4d2c789daf3d46eedc3d048c512f60412a5a766e19c598ab496ed9b3320b9c9&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85068808.jpg?k=5802683ffe08b9f6bceafb683c7f0385cd96c2b483330d7156db3e0e6aecb3f5&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310196280.jpg?k=59a0edd06040647b00f44e52cd62cab5a06811f9864b2109fd4177daad4d6758&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437584582.jpg?k=a75e866e1607dd88f3386a5b3e3baa16bfd9a8afb73ea6fb2ea6c5e4edc89696&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310193688.jpg?k=c7500b2e43ddb93ddc3e7b8bd55b192d16d0daac7f0f8c3634723d29b6a11d7a&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310193624.jpg?k=daf7a35b046ee58083bc4c4ba317f61ec41a846ff583d083c74a66ac2c40bba5&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310193561.jpg?k=ea2090fe96784c29a6e80e1ef363d78e6b641837060c781b0698dbe27caae0e1&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310193493.jpg?k=f4a141505e480baf408c71f8ef8e793c023a61f9eb27e5f44b6d6cabc7d6314d&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/437584644.jpg?k=f1eaf602b15f123bc931b71d4083991736a6b1c5e504b42af7fed86e037eff60&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310189029.jpg?k=3ef3496ad871ce8a70479e8e9e4de2f0e88720a33c029d7d97b75ff31b7b7128&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/310188986.jpg?k=f0db9861c9b57ddd2fadd0fc2b0ec1b12c6626ed0b3508b1d20c2b05c43997b9&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309869368.jpg?k=196f73140b7d57f93f1108b2a51d67c626421a1f0aee345a87e0a7aadea16cfc&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309867084.jpg?k=c9ce48eec30c1063629be6a74a3ed215636f2094f17df460dfdc8ab03395ac7a&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309866738.jpg?k=9edeb2eae0b093d1629d1b266a90af432688b798178ea91b577a6de76b389e52&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309866543.jpg?k=fbf8a3095e089c110fc2750ee10c7e4c00458ac666f8fa309d1fb2ad6abbcd69&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309866387.jpg?k=90c4732cd6e887d7ce4a7a244f3b4c74e021e89cecffc31c82345bd71f5b57f9&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309866047.jpg?k=72ce38d18ef1333444972ea114407ea3e5b9918a022f73f916457f4bd50fac40&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309866197.jpg?k=2e66c5379040a1c3b34df96e4beab4bad4ff59ed4d92d78ed99b8c6ef2f67cb3&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309865963.jpg?k=de2584765f7bb84c78df9a512acff2662fa65629b3f5402b00abac0d922ba39d&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309865696.jpg?k=22a47939f73c53315e772d4f9408f92d04a5dc6013284173c57691aa77fb8ab8&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309766602.jpg?k=e31b46b9cd5f47bfe8448ffe1b0f9564150bd2bb9ac9f26066eacf260d49f4f1&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309766252.jpg?k=b05ccc3e13bf140538d86d4a6b94d34cc9d5774216fc6609781bf10a21d13fa9&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309765909.jpg?k=bbce21baf5e460b248a6c2a304eae8c042bab6baacd5c4f9f35fcfccb6094d5e&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309763065.jpg?k=5631ffd0851333c50943a145622dd54e30e3c855c5748e496f377677298129d6&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309762560.jpg?k=850b4d667c60caa07d4115452c1be9c1f936beef995c372e31d583fb487aad39&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309755979.jpg?k=9c1ef251654c76e1d9dddd9a5b67eb10de7adc2a2a16c35428a6bbeb2481f6ac&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309755671.jpg?k=ecf5a05d547b6f4768677ce9f9e25718824e9d824ef77265831bc2be02aecc44&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85069676.jpg?k=1d1763a6ce2036bff718ebfb66c70057121771c9353612c57445bf4903cda887&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85069675.jpg?k=f225bf19da0884e88c8cebf5a9adb93a7e956a9e0f75f69f8028bf0b924c53a8&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/86000544.jpg?k=9161884516c09fd4d3af2c1a9e3b37097188c9ed3e383567c151a1caba706f70&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/86000496.jpg?k=88706592d890f953e825f86610812f3bc5aa422257847bb226e6d5f98c5d3727&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85539530.jpg?k=628e73eb08d1b8244d4d6d960fa93bfd9270166cf2d6c95f10cbb42d6e8f49ba&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85230712.jpg?k=c432f09b85f33e3278c643059c90cf9e460770c1f31de53d469c687dddc46d8e&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85230529.jpg?k=0b46980a1abfc04d9586f4a343d923442815b6a2b55fd32a2e097f826c635596&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85155397.jpg?k=6a5cfda1a53b5b7c00a8f930e31fc19b9334157668246217ecd79fae1fa9ce0c&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85068806.jpg?k=40e23cd11e5bc59d65a32c18e6d60f84a6fc9fb9567be553cc28a45e0977c013&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85154435.jpg?k=e0fe698b08773f6ae2b2f66d9279d22d48cc1c6b2ab817f2f7be2b8648da61d6&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85230691.jpg?k=bbcc0a1579b4278bacb42192f8a51e86b4fca9857974294b3baa93e2a1eec698&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85069945.jpg?k=6d6d495b35be5a7bf282f3c6418bfe406e0f5ea5ee70c111dc8c20862b9dda98&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85069670.jpg?k=c2e88fcf2a08acadc126b2b442d2597f3656cc051884192df16efb212ae9a86a&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85069678.jpg?k=c4be742f572a8cfa7af977551c4091017e4103c4f5d5f38aa09123a9ebc9c979&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/85069282.jpg?k=eadd933c8b030b3cfea9684c5c887a15a5af43b568e76d021e62b2f7b921a44b&o=&hp=1"
+  ],
+  "categoryReviews": [
+    {
+      "title": "Staff",
+      "score": 8
+    },
+    {
+      "title": "Facilities",
+      "score": 6.3
+    },
+    {
+      "title": "Cleanliness",
+      "score": 6.9
+    },
+    {
+      "title": "Comfort",
+      "score": 6.9
+    },
+    {
+      "title": "Value for money",
+      "score": 7.3
+    },
+    {
+      "title": "Location",
+      "score": 8.6
+    },
+    {
+      "title": "Free WiFi",
+      "score": 5.7
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Bathroom",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Toilet paper",
+          "additionalInfo": []
+        },
+        {
+          "name": "Towels",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bidet",
+          "additionalInfo": []
+        },
+        {
+          "name": "Towels/sheets (extra fee)",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bath or shower",
+          "additionalInfo": []
+        },
+        {
+          "name": "Private bathroom",
+          "additionalInfo": []
+        },
+        {
+          "name": "Toilet",
+          "additionalInfo": []
+        },
+        {
+          "name": "Free toiletries",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bath",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Bedroom",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Wardrobe or closet",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "View",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "City view",
+          "additionalInfo": []
+        },
+        {
+          "name": "Garden view",
+          "additionalInfo": []
+        },
+        {
+          "name": "View",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoors",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Outdoor furniture",
+          "additionalInfo": []
+        },
+        {
+          "name": "Sun terrace",
+          "additionalInfo": []
+        },
+        {
+          "name": "Private pool",
+          "additionalInfo": []
+        },
+        {
+          "name": "Terrace",
+          "additionalInfo": []
+        },
+        {
+          "name": "Garden",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Kitchen",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Dining table",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Room Amenities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Socket near the bed",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Living Area",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Dining area",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Media & Technology",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Flat-screen TV",
+          "additionalInfo": []
+        },
+        {
+          "name": "Cable channels",
+          "additionalInfo": []
+        },
+        {
+          "name": "Satellite channels",
+          "additionalInfo": []
+        },
+        {
+          "name": "Telephone",
+          "additionalInfo": []
+        },
+        {
+          "name": "TV",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Food & Drink",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Fruits",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Kid meals",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Special diet menus (on request)",
+          "additionalInfo": []
+        },
+        {
+          "name": "Breakfast in the room",
+          "additionalInfo": []
+        },
+        {
+          "name": "Restaurant",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Internet",
+      "overview": "WiFi is available in all areas and is free of charge.",
+      "facilities": []
+    },
+    {
+      "name": "Parking",
+      "overview": "Private parking is possible on site (reservation is not needed) and costs € 2 per day.",
+      "facilities": [
+        {
+          "name": "Parking garage",
+          "additionalInfo": []
+        },
+        {
+          "name": "Accessible parking",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Reception services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Private check-in/check-out",
+          "additionalInfo": []
+        },
+        {
+          "name": "Concierge service",
+          "additionalInfo": []
+        },
+        {
+          "name": "Luggage storage",
+          "additionalInfo": []
+        },
+        {
+          "name": "Tour desk",
+          "additionalInfo": []
+        },
+        {
+          "name": "Express check-in/check-out",
+          "additionalInfo": []
+        },
+        {
+          "name": "24-hour front desk",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Cleaning services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Daily housekeeping",
+          "additionalInfo": []
+        },
+        {
+          "name": "Trouser press",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Ironing service",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Dry cleaning",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Laundry",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business facilities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Fax/photocopying",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Meeting/banquet facilities",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Safety & security",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Fire extinguishers",
+          "additionalInfo": []
+        },
+        {
+          "name": "CCTV outside property",
+          "additionalInfo": []
+        },
+        {
+          "name": "CCTV in common areas",
+          "additionalInfo": []
+        },
+        {
+          "name": "Smoke alarms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Key access",
+          "additionalInfo": []
+        },
+        {
+          "name": "24-hour security",
+          "additionalInfo": []
+        },
+        {
+          "name": "Safety deposit box",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "General",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Shuttle service",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Shared lounge/TV area",
+          "additionalInfo": []
+        },
+        {
+          "name": "Designated smoking area",
+          "additionalInfo": []
+        },
+        {
+          "name": "Air conditioning",
+          "additionalInfo": []
+        },
+        {
+          "name": "Wake-up service",
+          "additionalInfo": []
+        },
+        {
+          "name": "Heating",
+          "additionalInfo": []
+        },
+        {
+          "name": "Car hire",
+          "additionalInfo": []
+        },
+        {
+          "name": "Lift",
+          "additionalInfo": []
+        },
+        {
+          "name": "Family rooms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Non-smoking rooms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Wake up service/Alarm clock",
+          "additionalInfo": []
+        },
+        {
+          "name": "Room service",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Accessibility",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Entire unit wheelchair accessible",
+          "additionalInfo": []
+        },
+        {
+          "name": "Upper floors accessible by elevator",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoor swimming pool",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Opening times",
+          "additionalInfo": []
+        },
+        {
+          "name": "Open all year",
+          "additionalInfo": []
+        },
+        {
+          "name": "Sun loungers or beach chairs",
+          "additionalInfo": []
+        },
+        {
+          "name": "Fence around pool",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Wellness",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Sun loungers or beach chairs",
+          "additionalInfo": []
+        },
+        {
+          "name": "Solarium",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Languages spoken",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Arabic",
+          "additionalInfo": []
+        },
+        {
+          "name": "English",
+          "additionalInfo": []
+        },
+        {
+          "name": "Spanish",
+          "additionalInfo": []
+        },
+        {
+          "name": "French",
+          "additionalInfo": []
+        }
+      ]
+    }
+  ],
+  "hotelChain": null,
+  "reviewScoresDistribution": {
+    "1": 243,
+    "2": 251,
+    "3": 669,
+    "4": 1197,
+    "5": 672
+  },
+  "timeOfScrapeISO": "2023-12-24T10:24:33.555Z"
+},
+{
+  "order": 7,
+  "url": "https://www.booking.com/hotel/ma/residence-andalouse-rue-tarik-ibn-ziad.en-gb.html?selected_currency=USD&changed_currency=1&lang=en-gb&group_adults=2&no_rooms=1&order=distance_from_search&nflt=price%3DUSD-0-999999-1",
+  "name": "Résidence andalouse rue tarik ibn ziad",
+  "type": "apartment",
+  "description": "Set in Marrakech, 1.8 km from Majorelle Gardens and 1.8 km from Djemaa El Fna, Résidence andalouse rue tarik ibn ziad offers spacious air-conditioned accommodation with a balcony and free WiFi. The property is around 2.2 km from Marrakesh Train Station, 3 km from Bahia Palace and 3.2 km from The Orientalist Museum of Marrakech. The property is non-smoking and is located 1.9 km from Mouassine Museum.\n\nThe apartment is composed of 2 bedrooms, a fully equipped kitchen, and 1 bathroom. A flat-screen TV is offered.\n\nPopular points of interest near the apartment include Le Jardin Secret, Koutoubia Mosque and Yves Saint Laurent Museum. The nearest airport is Marrakech-Menara Airport, 4 km from Résidence andalouse rue tarik ibn ziad.",
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "rating": null,
+  "reviews": 0,
+  "breakfast": null,
+  "checkIn": "From 01:00 to 23:00",
+  "checkOut": "From 00:00 to 11:00",
+  "location": {
+    "lat": "31.6308162",
+    "lng": "-8.0016131"
+  },
+  "address": {
+    "full": "Rue Ibn Atyar résidence Achraf, 40000 Marrakech, Morocco",
+    "postalCode": "40000",
+    "street": "Rue Ibn Atyar résidence Achraf",
+    "country": "Morocco",
+    "region": "Marrakech-Safi"
+  },
+  "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822744.jpg?k=cc5b62b5747a3fd2bcb066a36f08a6a2f60229596d6755fb819299ab63e78906&o=&hp=1",
+  "rooms": [],
+  "images": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822744.jpg?k=cc5b62b5747a3fd2bcb066a36f08a6a2f60229596d6755fb819299ab63e78906&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822792.jpg?k=33f1f19bddb0e1d07a8be20962358ba10c16c46435aec30538a66827ef9220a0&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822797.jpg?k=f8c3601c0d5f21024abcc3ea185e726e179400ecbe173886c08e4440216293b6&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822802.jpg?k=efbdeacb7cd0cdd3ad03dd84f5a083d0804720a63f8732515d5fb21a495f7493&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822806.jpg?k=f45de0cd8c25a82ed1c98502f680d23f475380c379cfede7ba10d01370a32454&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822810.jpg?k=eda7446460a54dc24a4d08634426594b66c7650d17a5eae9b9c901c37913932d&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822815.jpg?k=3d66f1213bd8bf8d6acb824c7f8147de6260af368fcf410b63aac20a41e8f565&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822825.jpg?k=0a5b4962fde415641c86d77858bd1c77cb3f18fe6737a657997b1910da40cc41&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822839.jpg?k=919c5513e51cee9114c2de39e8db380ca29e90624ed26f8069f431bb52c2939e&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822846.jpg?k=37194e076398c001f41c0d4ec2a31afcd3c0ebb84e8e531c93c107c4a0165fa1&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822858.jpg?k=1c8bb58f9f4d7de46e957eddd2e14ead3c2f278f93b3c36083c8d466b1c1389a&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822867.jpg?k=63048cce163fc2977ec5272c51b62a46f3d7fa1c7528d0a4a34d91ec53d2c573&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822876.jpg?k=aa73eb83a1e9d5c884165445b982e80a625b02a71c1e4e4a2f083de06faee290&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822883.jpg?k=adc609e03631d7d1b2395fec928001ab22a20f2249933c50e6d8ee9537a1aec5&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822891.jpg?k=4b5b35b103d79bd5c436039cb39febb210d859064167b7fcde211113aed816f9&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822896.jpg?k=c825990449c187b4f41b8e182feb3c26ce851a54398a7660771a03144ed83b5e&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/453822902.jpg?k=d43799872ce0921dd39e84d5d436c49605731a9dd404177c166c5af1a9cef706&o=&hp=1"
+  ],
+  "categoryReviews": [],
+  "facilities": [
+    {
+      "name": "Parking",
+      "overview": "Free public parking is possible on site (reservation is not needed).",
+      "facilities": []
+    },
+    {
+      "name": "Internet",
+      "overview": "WiFi is available in all areas and is free of charge.",
+      "facilities": []
+    },
+    {
+      "name": "Kitchen",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Kitchen",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Media & Technology",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Flat-screen TV",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Room Amenities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Heating",
+          "additionalInfo": []
+        },
+        {
+          "name": "Hot tub",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoors",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Balcony",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Air conditioning",
+          "additionalInfo": []
+        },
+        {
+          "name": "Non-smoking throughout",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Languages spoken",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Arabic",
+          "additionalInfo": []
+        },
+        {
+          "name": "French",
+          "additionalInfo": []
+        }
+      ]
+    }
+  ],
+  "hotelChain": null,
+  "reviewScoresDistribution": null,
+  "timeOfScrapeISO": "2023-12-24T10:24:47.946Z"
+},
+{
+  "order": 9,
+  "url": "https://www.booking.com/hotel/ma/appartement-mrksh1.en-gb.html?selected_currency=USD&changed_currency=1&lang=en-gb&group_adults=2&no_rooms=1&order=distance_from_search&nflt=price%3DUSD-0-999999-1",
+  "name": "Appartement",
+  "type": "apartment",
+  "description": "Appartement is situated in Marrakech, 1.9 km from Mouassine Museum, 1.5 km from Koutoubia Mosque, and 1.8 km from Yves Saint Laurent Museum. The air-conditioned accommodation is 1.8 km from Majorelle Gardens, and guests can benefit from private parking available on site and free WiFi. The property is non-smoking and is located 1.8 km from Djemaa El Fna.\n\nThe spacious apartment features a balcony, 2 bedrooms, a living room and a well-equipped kitchen with a fridge and a minibar. A flat-screen TV is provided.\n\nMarrakesh Train Station is 2.2 km from the apartment, while Le Jardin Secret is 1.7 km away. The nearest airport is Marrakech-Menara Airport, 4 km from Appartement.",
+  "stars": null,
+  "price": null,
+  "currency": null,
+  "rating": null,
+  "reviews": 0,
+  "breakfast": null,
+  "checkIn": "From 01:00",
+  "checkOut": "Available 24 hours",
+  "location": {
+    "lat": "31.6307482",
+    "lng": "-8.0021851"
+  },
+  "address": {
+    "full": "زنقة إبن عطية, 40000 Marrakech, Morocco",
+    "postalCode": "40000",
+    "street": "زنقة إبن عطية",
+    "country": "Morocco",
+    "region": "Marrakech-Safi"
+  },
+  "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454016709.jpg?k=f301dde857de454f0c69f1ee22b79a0495e87ee539badeb0c46678fce79eb6dd&o=&hp=1",
+  "rooms": [],
+  "images": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454016709.jpg?k=f301dde857de454f0c69f1ee22b79a0495e87ee539badeb0c46678fce79eb6dd&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454016730.jpg?k=211222437cfe6c4c2e71fb6834999128e0dc7958077cd42b28d8aa0c0aa58c25&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454016734.jpg?k=1a2eb808604c164afc2e5a3d072b9714d9e5debad1e53332faf4e75d0650f0ba&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454016737.jpg?k=211e6b00b8abb31e7e60b3ef40a23afe71a8527c67cd80b7a41a490cf95d0f09&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454016740.jpg?k=7f5ed4ea3b29d4b7280524d8b5a202b80840253d4599b20a2b824dfc51df252b&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454016743.jpg?k=d8f343985c634e3879b9de0897ec44a841838fb2be4a3023a5492e814eb5a3c4&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454016745.jpg?k=82ccf8a40333894b2ab3992490b3456ef65d4519da3e34660b23fbea74323e40&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/454016746.jpg?k=6da86e0aeb87967972aad4a94bc167aba328b0c41e9c209d1cf61800f878bae3&o=&hp=1"
+  ],
+  "categoryReviews": [],
+  "facilities": [
+    {
+      "name": "Parking",
+      "overview": "Free private parking is possible on site (reservation is not needed).",
+      "facilities": []
+    },
+    {
+      "name": "Internet",
+      "overview": "WiFi is available in all areas and is free of charge.",
+      "facilities": []
+    },
+    {
+      "name": "Kitchen",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Kitchen",
+          "additionalInfo": []
+        },
+        {
+          "name": "Refrigerator",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Media & Technology",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Flat-screen TV",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Room Amenities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Heating",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoors",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Balcony",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Food & Drink",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Minibar",
+          "additionalInfo": []
+        },
+        {
+          "name": "Tea/Coffee maker",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Air conditioning",
+          "additionalInfo": []
+        },
+        {
+          "name": "Non-smoking throughout",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Languages spoken",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Arabic",
+          "additionalInfo": []
+        },
+        {
+          "name": "French",
+          "additionalInfo": []
+        }
+      ]
+    }
+  ],
+  "hotelChain": null,
+  "reviewScoresDistribution": null,
+  "timeOfScrapeISO": "2023-12-24T10:24:49.369Z"
+},
+{
+  "order": 6,
+  "url": "https://www.booking.com/hotel/ma/akabar.en-gb.html?selected_currency=USD&changed_currency=1&lang=en-gb&group_adults=2&no_rooms=1&order=distance_from_search&nflt=price%3DUSD-0-999999-1",
+  "name": "Hotel Akabar",
+  "type": "hotel",
+  "description": "You're eligible for a Genius discount at Hotel Akabar! To save at this property, all you have to do is sign in.\nThe Akabar sits in the residential area of L’Hivernage and is decorated in Moroccan style. It offers an outdoor pool surrounded by palm trees and air-conditioned rooms with balcony.\n\nThe famous Mohammed 5 Avenue, with its many shops, is just 500 metres away. There is also a kiosk in front of the Hotel Akabar selling tobacco, souvenirs and newspapers.\n\nAkabar’s restaurant serves international and Moroccan cuisine in the elegant dining room with chandeliers. You can also have a drink at the bar or have a snack at the pool-side fast-food.\n\nThe rooms are all equipped with a TV, a telephone and a safe. They each have a private bathroom with a bathtub.\n\nThe Akabar Hotel staff speaks English, French and Spanish and will be happy to help you organise your stay. Front desk is open 24 hours and free Wi-Fi access is provided in public areas.\n\nLocal activities include golf, horseback riding and tennis. Hotel Akabar is just 2 km from Jamaâ El Fna Square and 7 km from Menara Airport. Parking within the limit of availability.",
+  "stars": 3,
+  "price": null,
+  "currency": null,
+  "rating": 7.2,
+  "reviews": 1229,
+  "breakfast": null,
+  "checkIn": "From 12:00 to 00:00",
+  "checkOut": "From 01:00 to 12:30",
+  "location": {
+    "lat": "31.6267418",
+    "lng": "-8.0031753"
+  },
+  "address": {
+    "full": "Avenue Echouhada-Quartier De L'hivernage, Hivernage, 40000 Marrakech, Morocco",
+    "postalCode": "40000",
+    "street": "Avenue Echouhada-Quartier De L'hivernage",
+    "country": "Morocco",
+    "region": "Marrakech-Safi"
+  },
+  "image": "https://cf.bstatic.com/images/hotel/max1024x768/276/276239226.jpg",
+  "rooms": [],
+  "images": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276254465.jpg?k=a4a1f3d84ee5d7e181ad79deed1e06652315eb6dba4ac4b1791ddb1fa3a16156&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416587743.jpg?k=22b17025e623f758fa3d1d56a36d3f03f58f3080cf34464da1fb564df4b899e3&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416587488.jpg?k=70cfdd5b5acf979ba8e9454ee9194d82eb878dc64df7587a55f6b312dfc453c0&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416587420.jpg?k=cebed075ddbe3a5a9ab3448f119cc52a56ae6ab71fbbdcbd5886913433ce0cef&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/416587229.jpg?k=f3a2a9a33383d1c9cc35917cd7601b94666c992e3e63698a8a7f973319e11f78&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/25430532.jpg?k=5415fd73b76cc7a9741adb61caa3cff64512691ce51fa3b28aa8fafdbbc88538&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/25430553.jpg?k=8257fa1f1e2dfd02fe765765fae38041804c52387d8f6ce4eaec484b6ad41bc4&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/25430508.jpg?k=6e1a1d3c144bbdee06112fda6d029b931a51de8ab1b7da866e63976c47be27e7&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276279270.jpg?k=f4903a6c461e1b5ddc98f3df111821e00ecc13e3859a298e5cb1f1a53a1f3621&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276235514.jpg?k=26517e3ddd5093fdaafaa51f4979d390cd1d172e0350aa064fd5ae44a58c1986&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276235518.jpg?k=71353787f4b659a0f7183c5442f4467513ad2b7bac99e38cde7e65e52c470ebf&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276236701.jpg?k=99efe1e6a29956a4ef4f33ed624f7b73f9c2bf2c4343b86d3db6079186f6ba08&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276236705.jpg?k=cb2a34104b0addd03d6ed973f9a3017182c4bc0d59378be948a083b5bb9440d3&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276236703.jpg?k=70e7973633408bdc3cb2e6718e34970292ec6fdc83e938057b86c200935de038&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276235506.jpg?k=518d90318dc1a78b8d030ea076c390183a029d14f44d6949aca5d498b58af2fe&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276236708.jpg?k=809fa2997b429e437fe4dfebce7a88af2ed68f059f6585f1de392c389218e4e0&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276236712.jpg?k=1b1bddb7eb7e1c36b8c3ae459f4d749c7e270387ac5c7c2693bd0732e10d2752&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276236716.jpg?k=1cd1cd1847930c81bd51e67d77bb1c5968f5e7261339127802c09e42aa124fc7&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276236722.jpg?k=2c0bd695b8d23caae4273e4b60b2e62cb7c97b00095de6ca1b8722f89a0695f7&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276236731.jpg?k=e70b40a461ebf69a08bb2cfafd29db3f6602deffb130975c52009a96f206800a&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276237700.jpg?k=a6a096899d3d63237312d07902252bc2cde53c2ea591cd5a506bd75a2a0412e3&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276237707.jpg?k=05718a7f43448e1f0170337d46db28278b39ba9ce8595c06632a1fc24dafb524&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276237720.jpg?k=044c2b5fe817c6c8d7f93ced86d7237a8ba28a8eb71abcb0e40653c3c3fbbef6&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276237732.jpg?k=3d57fd5a5defb154e98fac4d008aba9222aa5415cb0445ebcfce942d799c3799&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276235521.jpg?k=9f5189f2fb51761d3a180f2cb3802870207df70e9116ceabbed2475bf6b40791&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276242677.jpg?k=afcbdf72f57bf92b535b34c70e804180a92c126fce2e1d1df783b3a78a856a97&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276242438.jpg?k=c74e98663f6bc75146d4f60c713bad2acc30c99bc0eab5252dd07bd0643a199f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276242445.jpg?k=1fc114b2755a2958753800b4cb5d3117c53faa1888d8e0f0795240fc67f1f190&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276242452.jpg?k=29156dbd9d235cb26038d576d342247ff11c1eaf63d574a6af7b43734598488e&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276242458.jpg?k=36dbb0c06ebd3b7e552d577839f7984971ac78bdf3dbdf5997790cc379746834&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276242461.jpg?k=89fc534680a39b4c910df9c8cd55e3fd6dbc444ab552e3b19a54c1765c58cce0&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276242464.jpg?k=37c25e4e314716274fa3a0a72c23436e8fc4f6d20c4a5317781f29dda10a1588&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276241318.jpg?k=25155443db0587e71c82b3f790e61e948333ab2288724a9ad4cc629bfeca6ca8&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276241336.jpg?k=ce82f720afcfd96b3b4ba98c082ab1ca45a25e8bea0e140dee5ceda0271df4bd&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276241340.jpg?k=1055e3e8780a26cdfafb60b776b0af0ce05cf092d8942448f18a921d71485516&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276241343.jpg?k=fd33eb7b6472c8849ed04265f7c4b02b58a61a967bb51ee33ba849efb48f65b9&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276241350.jpg?k=282e1192eba19e77f7a559e6a4d8180e5b2b48ec7df15041ff161ae956ea93ad&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276241357.jpg?k=23cca914969155b6e066af5ed3615b27f2524e0c4fe2bb78d8ea8e3d81544f49&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276240510.jpg?k=eed32640998b233bccdb10c439054e87dd02b0f717e44aaae4dd77274f2963c3&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276240515.jpg?k=7412dd2bb73b7968e8e796ce286ed0237fccc278a1392c6eb320fbec0cfa5548&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276240517.jpg?k=179f1f1d32f1fc5261773a245f8b7712900ead86ee724bb0e6898581f66290e9&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276240520.jpg?k=e37fa994caece5a16786f48c5b9673902d76d6e684f7a1ae9d9ed82ff8427d22&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276240528.jpg?k=38c92c880c2cd6fb188bb486463eab2767e47695f3673b192b4c736fcf233ee0&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276240541.jpg?k=8484faec909b79cba8191f6abd4c7dbe7641a275e5ca36c7688811952491b65b&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276239226.jpg?k=58fca2c4c0780723fa6191d9b2a21ef55eeab71c7fd86cb334599a35b977c79d&o=&hp=1"
+  ],
+  "categoryReviews": [
+    {
+      "title": "Staff",
+      "score": 8.4
+    },
+    {
+      "title": "Facilities",
+      "score": 6.8
+    },
+    {
+      "title": "Cleanliness",
+      "score": 7.5
+    },
+    {
+      "title": "Comfort",
+      "score": 7.6
+    },
+    {
+      "title": "Value for money",
+      "score": 7.7
+    },
+    {
+      "title": "Location",
+      "score": 8.8
+    },
+    {
+      "title": "Free WiFi",
+      "score": 8.2
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Outdoors",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Sun terrace",
+          "additionalInfo": []
+        },
+        {
+          "name": "Terrace",
+          "additionalInfo": []
+        },
+        {
+          "name": "Garden",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Activities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Temporary art galleries",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Food & Drink",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Coffee house on site",
+          "additionalInfo": []
+        },
+        {
+          "name": "Fruits",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Wine/champagne",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Snack bar",
+          "additionalInfo": []
+        },
+        {
+          "name": "Breakfast in the room",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bar",
+          "additionalInfo": []
+        },
+        {
+          "name": "Restaurant",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Internet",
+      "overview": "WiFi is available in the rooms and is free of charge.",
+      "facilities": []
+    },
+    {
+      "name": "Parking",
+      "overview": "No parking available.",
+      "facilities": []
+    },
+    {
+      "name": "Reception services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Invoice provided",
+          "additionalInfo": []
+        },
+        {
+          "name": "Private check-in/check-out",
+          "additionalInfo": []
+        },
+        {
+          "name": "Concierge service",
+          "additionalInfo": []
+        },
+        {
+          "name": "Tour desk",
+          "additionalInfo": []
+        },
+        {
+          "name": "Currency exchange",
+          "additionalInfo": []
+        },
+        {
+          "name": "Express check-in/check-out",
+          "additionalInfo": []
+        },
+        {
+          "name": "24-hour front desk",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Entertainment and family services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Baby safety gates",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Cleaning services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Daily housekeeping",
+          "additionalInfo": []
+        },
+        {
+          "name": "Trouser press",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Ironing service",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Dry cleaning",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Laundry",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business facilities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Meeting/banquet facilities",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Safety & security",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Fire extinguishers",
+          "additionalInfo": []
+        },
+        {
+          "name": "CCTV outside property",
+          "additionalInfo": []
+        },
+        {
+          "name": "CCTV in common areas",
+          "additionalInfo": []
+        },
+        {
+          "name": "Smoke alarms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Security alarm",
+          "additionalInfo": []
+        },
+        {
+          "name": "Key access",
+          "additionalInfo": []
+        },
+        {
+          "name": "24-hour security",
+          "additionalInfo": []
+        },
+        {
+          "name": "Safety deposit box",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "General",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Shared lounge/TV area",
+          "additionalInfo": []
+        },
+        {
+          "name": "Designated smoking area",
+          "additionalInfo": []
+        },
+        {
+          "name": "Air conditioning",
+          "additionalInfo": []
+        },
+        {
+          "name": "Heating",
+          "additionalInfo": []
+        },
+        {
+          "name": "Soundproof rooms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Lift",
+          "additionalInfo": []
+        },
+        {
+          "name": "Family rooms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Non-smoking rooms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Room service",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoor swimming pool",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Opening times",
+          "additionalInfo": []
+        },
+        {
+          "name": "Open all year",
+          "additionalInfo": []
+        },
+        {
+          "name": "All ages welcome",
+          "additionalInfo": []
+        },
+        {
+          "name": "Plunge pool",
+          "additionalInfo": []
+        },
+        {
+          "name": "Sun loungers or beach chairs",
+          "additionalInfo": []
+        },
+        {
+          "name": "Sun umbrellas",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Wellness",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Kids' pool",
+          "additionalInfo": []
+        },
+        {
+          "name": "Sun umbrellas",
+          "additionalInfo": []
+        },
+        {
+          "name": "Sun loungers or beach chairs",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Languages spoken",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Arabic",
+          "additionalInfo": []
+        },
+        {
+          "name": "English",
+          "additionalInfo": []
+        },
+        {
+          "name": "Spanish",
+          "additionalInfo": []
+        },
+        {
+          "name": "French",
+          "additionalInfo": []
+        }
+      ]
+    }
+  ],
+  "hotelChain": null,
+  "reviewScoresDistribution": {
+    "1": 65,
+    "2": 72,
+    "3": 236,
+    "4": 508,
+    "5": 348
+  },
+  "timeOfScrapeISO": "2023-12-24T10:24:49.538Z"
+},
+{
+  "order": 10,
+  "url": "https://www.booking.com/hotel/ma/et-ryads-naoura-barriere-marrakech.en-gb.html?selected_currency=USD&changed_currency=1&lang=en-gb&group_adults=2&no_rooms=1&order=distance_from_search&nflt=price%3DUSD-0-999999-1",
+  "name": "Hôtel & Ryads Barrière Le Naoura",
+  "type": "hotel",
+  "description": "The Naoura Barrière is spread over a beautiful garden landscape, centrally located in Marrakesh near the heart of the medina. It offers a peaceful setting and luxury facilities.\n\nThe suites at Naoura Barrière are spacious with modern amenities and en suite facilities. Special touches include bathrobes, DVD players and a balcony.\n\nThe hotel restaurants offer quality local cuisine using fresh market produce.The hotel bar offers a relaxing space to sample an original cocktail and wine list. An extensive buffet breakfast is served each morning.\n\nThe spa includes a full range of relaxing treatments, two traditional Moroccan Hammams, and fitness centre. There is a club for children including activities and meals. Tours can be organized upon request.\n\nThe Naoura Barrière is ideally located near the airport and walking distance to many key attractions.",
+  "stars": 5,
+  "price": null,
+  "currency": null,
+  "rating": 8.8,
+  "reviews": 400,
+  "breakfast": null,
+  "checkIn": "From 15:00",
+  "checkOut": "Until 12:00",
+  "location": {
+    "lat": "31.6286008",
+    "lng": "-7.9970169"
+  },
+  "address": {
+    "full": "Djebel Alakhdar - Bab Doukkala, Medina, 40 000 Marrakech, Morocco",
+    "postalCode": "40 000",
+    "street": "Djebel Alakhdar - Bab Doukkala",
+    "country": "Morocco",
+    "region": "Marrakech-Safi"
+  },
+  "image": "https://cf.bstatic.com/images/hotel/max1024x768/633/63331284.jpg",
+  "rooms": [],
+  "images": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335234.jpg?k=b94f25f11a18611fe25db73a39a7c6ee1a622ddba5db1d65f8547f3c2ac58d54&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335223.jpg?k=fd85e9dbac61dbbb638e661142cd0193ae14e61806e424f200a9a5e4c8265f66&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335231.jpg?k=5677737a6333e8642ed76a79988dd82dc584cc1b024388ff7276f62bb791c433&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335261.jpg?k=6c687ee9eb9636dd5811b8f95ebeabb53936c0a3977602a83ae554490aa31a22&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/11358450.jpg?k=7697e8a349b253447e69c8654d427045a843d736a0a8f867f2cd0d6cbdff6bca&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/11358180.jpg?k=860e69a10fd1d6c7c33746e549ea7ab3e9af28bc5372d1dc31366618ed38e650&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335228.jpg?k=ed4b51ac0895bff92cd509d7901508b23ae94d4668d35919f9b7be1084c796f1&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/11358590.jpg?k=978fa58527153b0ad9f869323fe14800e7251f76df6e43965dcbdb9ec8eb00c8&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/11358277.jpg?k=d51b589f489cf18da36f472d651a057481c6a80e166a70558145c1c28e2fba29&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/41851682.jpg?k=7258247f9c5bdf2e172b64e54b13a3466a949bfb93bda28e2637a2ce602c4607&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335212.jpg?k=17287b7f60971fbb1a34c91e6f4bc5ebfaec42c17323ef5c91bca6aa5197c693&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335219.jpg?k=a25d599ce281c98411217293e95ff35ee43a07794cbcc0d1712f8a8f6657d067&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335233.jpg?k=99e89143294bb06b916fdc381692ba9977293eb284e4ac3e2731cfa91319ba1a&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335236.jpg?k=af028822577eb06ea077369a18da5760228f675310b825a36de009dce9c94d31&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335254.jpg?k=f24e6aea3496731389b72b9d261560802e44df8477b13e03d04d9967319368a6&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335258.jpg?k=550f9c7862e847201110e2e8d424c42d9da6d547569e61efc012cbbe10020c3f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335259.jpg?k=123eae97b2e7d18e209959d980d63811a5a90c43d9ce2dcbb9523d0c948a93cd&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335272.jpg?k=eefb8df997390b0204b646ed20791183386599c723d16a7b1be1ce880d400580&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335273.jpg?k=e70c54f45b74608f851810ff53aa031a0de4a3e3f4d9d60d58b798b0c1b1fb5c&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335303.jpg?k=a0683d3f091a6864b8b11d9be9fe3821e17846a1823b1938c5bef0975a0b7d1f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335339.jpg?k=204936028dc8cea34c75e926c08b8d8b93fbc1a88acc07cb3c4664acb84f63f6&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335408.jpg?k=778628c7ba7f1077cfe3f0c7107514c3fd3786447012edfac23160624b553dce&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335441.jpg?k=fa6ee6b6acd7e9f834c0af378c60946130875bcda1d9a7651c23e08112e31dae&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335444.jpg?k=c0d7a2e5c5af41a3cda7daa00e139e28c515ba1c262538753d523de77479ebb8&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335446.jpg?k=f2c957aa3d5eed041441d273ab7b0b13266cc0a55063f1f5a7d9fe56be8ff87e&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335447.jpg?k=d643457fef7fa0e07dcaaf49c13ca3a4cfc8c697ec8d7f1c4be8707b7d26331f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335451.jpg?k=a6116bf250533857d2250b50f34f8e27067e190f7f11b1c6f2fb4453619f8eb4&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63334152.jpg?k=c8d4df4523bed86f92c5a37f5cfac138f5830b71ec0162ee519de1300b0329ec&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63333906.jpg?k=77bf42984239e65ef37138a06c077432a4a04a7c58b641b2efafa4f29dd1ecf0&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63333609.jpg?k=ca6d1bc241a26475a45fb7b0a8237bf785b4e61e319e315c6f3234e5c2d36f65&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63333310.jpg?k=8e30e872f1a3c17e6896015194fc4f9267311455d98d9388a416dc4aa92bcb26&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63333175.jpg?k=5a2c2d2f44c87c83b99d0756df8f64f186a9c8a914b80d0ef9d6b7b9ed6cfcd3&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63332946.jpg?k=d4a1ac7b504618c69aac064834f3276a7d202b8085063a69a0121564ae5bc256&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63332939.jpg?k=c2194a3961fade0c40703d48a1ed0483c9bc696d00d9573e56ca78b0512219b7&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63332089.jpg?k=3140f26dc040d2ab06eaa3670819e6867d33909050061135aed3506b6a91864f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63331284.jpg?k=26782906e20e835f3495a31e4df25fa1fb5bd2530f8804ad848e89fd1912787f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/45335234.jpg?k=b94f25f11a18611fe25db73a39a7c6ee1a622ddba5db1d65f8547f3c2ac58d54&o=&hp=1"
+  ],
+  "categoryReviews": [
+    {
+      "title": "Staff",
+      "score": 9.3
+    },
+    {
+      "title": "Facilities",
+      "score": 8.8
+    },
+    {
+      "title": "Cleanliness",
+      "score": 9.2
+    },
+    {
+      "title": "Comfort",
+      "score": 9.3
+    },
+    {
+      "title": "Value for money",
+      "score": 8.4
+    },
+    {
+      "title": "Location",
+      "score": 9.5
+    },
+    {
+      "title": "Free WiFi",
+      "score": 7.3
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Bathroom",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Toilet paper",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bidet",
+          "additionalInfo": []
+        },
+        {
+          "name": "Private bathroom",
+          "additionalInfo": []
+        },
+        {
+          "name": "Toilet",
+          "additionalInfo": []
+        },
+        {
+          "name": "Free toiletries",
+          "additionalInfo": []
+        },
+        {
+          "name": "Hairdryer",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bath",
+          "additionalInfo": []
+        },
+        {
+          "name": "Shower",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Bedroom",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Wardrobe or closet",
+          "additionalInfo": []
+        },
+        {
+          "name": "Extra long beds (> 2 metres)",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "View",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Pool view",
+          "additionalInfo": []
+        },
+        {
+          "name": "View",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoors",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Sun terrace",
+          "additionalInfo": []
+        },
+        {
+          "name": "Terrace",
+          "additionalInfo": []
+        },
+        {
+          "name": "Garden",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Pets",
+      "overview": "Pets are allowed on request. Charges may be applicable.",
+      "facilities": []
+    },
+    {
+      "name": "Activities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Kids' club",
+          "additionalInfo": []
+        },
+        {
+          "name": "Children's playground",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Media & Technology",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Flat-screen TV",
+          "additionalInfo": []
+        },
+        {
+          "name": "Satellite channels",
+          "additionalInfo": []
+        },
+        {
+          "name": "Radio",
+          "additionalInfo": []
+        },
+        {
+          "name": "Telephone",
+          "additionalInfo": []
+        },
+        {
+          "name": "Pay-per-view channels",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Food & Drink",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Kid-friendly buffet",
+          "additionalInfo": []
+        },
+        {
+          "name": "Kid meals",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Special diet menus (on request)",
+          "additionalInfo": []
+        },
+        {
+          "name": "Snack bar",
+          "additionalInfo": []
+        },
+        {
+          "name": "Breakfast in the room",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bar",
+          "additionalInfo": []
+        },
+        {
+          "name": "Minibar",
+          "additionalInfo": []
+        },
+        {
+          "name": "Restaurant",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Internet",
+      "overview": "WiFi is available in all areas and is free of charge.",
+      "facilities": []
+    },
+    {
+      "name": "Parking",
+      "overview": "Free public parking is possible on site (reservation is not needed).",
+      "facilities": [
+        {
+          "name": "Valet parking",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Reception services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Private check-in/check-out",
+          "additionalInfo": []
+        },
+        {
+          "name": "Concierge service",
+          "additionalInfo": []
+        },
+        {
+          "name": "Luggage storage",
+          "additionalInfo": []
+        },
+        {
+          "name": "Tour desk",
+          "additionalInfo": []
+        },
+        {
+          "name": "Currency exchange",
+          "additionalInfo": []
+        },
+        {
+          "name": "24-hour front desk",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Entertainment and family services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Kids' outdoor play equipment",
+          "additionalInfo": []
+        },
+        {
+          "name": "Indoor play area",
+          "additionalInfo": []
+        },
+        {
+          "name": "Board games/puzzles",
+          "additionalInfo": []
+        },
+        {
+          "name": "Babysitting/child services",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cleaning services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Daily housekeeping",
+          "additionalInfo": []
+        },
+        {
+          "name": "Ironing service",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Dry cleaning",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Laundry",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business facilities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Fax/photocopying",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Business centre",
+          "additionalInfo": []
+        },
+        {
+          "name": "Meeting/banquet facilities",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Safety & security",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Fire extinguishers",
+          "additionalInfo": []
+        },
+        {
+          "name": "CCTV outside property",
+          "additionalInfo": []
+        },
+        {
+          "name": "CCTV in common areas",
+          "additionalInfo": []
+        },
+        {
+          "name": "Smoke alarms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Security alarm",
+          "additionalInfo": []
+        },
+        {
+          "name": "24-hour security",
+          "additionalInfo": []
+        },
+        {
+          "name": "Safety deposit box",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "General",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Shuttle service",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Shared lounge/TV area",
+          "additionalInfo": []
+        },
+        {
+          "name": "Hypoallergenic",
+          "additionalInfo": []
+        },
+        {
+          "name": "Air conditioning",
+          "additionalInfo": []
+        },
+        {
+          "name": "Allergy-free room",
+          "additionalInfo": []
+        },
+        {
+          "name": "Wake-up service",
+          "additionalInfo": []
+        },
+        {
+          "name": "Heating",
+          "additionalInfo": []
+        },
+        {
+          "name": "Soundproof rooms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Lift",
+          "additionalInfo": []
+        },
+        {
+          "name": "Family rooms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Barber/beauty shop",
+          "additionalInfo": []
+        },
+        {
+          "name": "Facilities for disabled guests",
+          "additionalInfo": []
+        },
+        {
+          "name": "Airport shuttle",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Non-smoking rooms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Room service",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "2 swimming pools",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Open all year",
+          "additionalInfo": []
+        },
+        {
+          "name": "Open all year",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Wellness",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Hammam",
+          "additionalInfo": []
+        },
+        {
+          "name": "Hot tub/Jacuzzi",
+          "additionalInfo": []
+        },
+        {
+          "name": "Massage",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Spa and wellness centre",
+          "additionalInfo": []
+        },
+        {
+          "name": "Fitness centre",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Languages spoken",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Arabic",
+          "additionalInfo": []
+        },
+        {
+          "name": "German",
+          "additionalInfo": []
+        },
+        {
+          "name": "English",
+          "additionalInfo": []
+        },
+        {
+          "name": "Spanish",
+          "additionalInfo": []
+        },
+        {
+          "name": "French",
+          "additionalInfo": []
+        }
+      ]
+    }
+  ],
+  "hotelChain": null,
+  "reviewScoresDistribution": {
+    "1": 2,
+    "2": 5,
+    "3": 14,
+    "4": 109,
+    "5": 270
+  },
+  "timeOfScrapeISO": "2023-12-24T10:24:55.012Z"
+},
+{
+  "order": 8,
+  "url": "https://www.booking.com/hotel/ma/the-red-house.en-gb.html?selected_currency=USD&changed_currency=1&lang=en-gb&group_adults=2&no_rooms=1&order=distance_from_search&nflt=price%3DUSD-0-999999-1",
+  "name": "The Red House",
+  "type": "guest_house",
+  "description": "You're eligible for a Genius discount at The Red House! To save at this property, all you have to do is sign in.\nCentrally located in the heart of the Hivernage district, this luxurious palace offers comfortable rooms and a warm atmosphere. It includes free Wi-Fi and free parking.\n\nRooms at The Red House are spacious and come fully equipped with modern comforts including TV, en suite facilities and air conditioning. The entire hotel has been elegantly decorated with traditional architecture.\n\nThe friendly and attentive staff will make your stay as comfortable as possible. A peaceful garden and swimming pool are ideal places to relax in at the end of the day.\n\nBreakfast is served daily at The Red House and quality Moroccan cuisine is available in the hotel restaurant.  It is walking distance to the medina and local sites including Jamaâ El Fna Square.",
+  "stars": 4,
+  "price": null,
+  "currency": null,
+  "rating": 9.3,
+  "reviews": 532,
+  "breakfast": null,
+  "checkIn": "From 14:00",
+  "checkOut": "Until 12:00",
+  "location": {
+    "lat": "31.6254194",
+    "lng": "-8.0013406"
+  },
+  "address": {
+    "full": "Av. El Yarmouk Hivernage, Hivernage, 40000 Marrakech, Morocco",
+    "postalCode": "40000",
+    "street": "Av. El Yarmouk Hivernage",
+    "country": "Morocco",
+    "region": "Marrakech-Safi"
+  },
+  "image": "https://cf.bstatic.com/images/hotel/max1024x768/696/6960917.jpg",
+  "rooms": [],
+  "images": [
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235866314.jpg?k=ef62d5e0000379776ceb9380db6e89e95588414119f3a33b7301ebff694f7935&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450354193.jpg?k=682dda59161dbefa8b36181338e217361727e9b34868c30f7cc06a1d11860c68&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450353883.jpg?k=b1ef56c6e411eb7fa51f3a31ff077d72c72bb4e3efdcece71e4d540a9fbd4a94&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450351414.jpg?k=f046044b21339e887c39e48134cc62f907f838a63663339ac53d663a3071e8f2&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450351293.jpg?k=8ead297a3e14379c377a83911d6e9ba8ab590071f6d0c429160f566f19e62d1d&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450351033.jpg?k=c3b9c730de7f4e0305b06bc19b897eb1e2d1f21fa31d6418bff857225865732f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450350816.jpg?k=cabb9e5da9f01c5288998a4def65bd3f4e2483f68e01b90dfdf20a654e7cce6a&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/450350776.jpg?k=222ada6d4e8cefc55f584e1522f17a38f9bb6d43fd7ee81e5744f94832a62200&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235866501.jpg?k=820cf1c09232bd12414fa38bd169d00d4a1650a96737c1e649416d2af1fc7038&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304411262.jpg?k=00b07e8d463d78c7b643f354230ebc97064ab0bbc0a2f1c171a2a4365cf58fe9&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304410592.jpg?k=a76aed2dfe312a3c291ecca5d0234f84f19a2524ccb1c61c793e0e8a7bc7c249&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304409469.jpg?k=24481bb90d9d79907b1d35729965ce6c845b939aeb415f18c1e1b6d5ced0016a&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235866418.jpg?k=a42f9b1188dc7d45b6eecbf914b075f8024a79ad32b1feb94a59de59cc1d1ae3&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304409379.jpg?k=0207c1847e543949e48c336d8dd4e6278699d30390ee5d5f86be22313d6aa8ba&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235866432.jpg?k=105bc319d69529db2e8f9fd91af6debf08158e794d4a2c143d13c183dbd5daf0&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235866787.jpg?k=85c907caed6b7af443f5ab311e415cd4f3827d741fcd3d8ce0952963b32c70e0&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304433858.jpg?k=3065ecf2dc8871d7f794b988aafb95a82fc748ed40cf0a5951bb4d091498ffa7&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/10737507.jpg?k=af2a7572b1cca29d7dbc20db4b9c2b44374d700241c553b672c7f5755f8c35ba&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235868740.jpg?k=3ff5d66d610243829defcbc441169f7cecc9504eb12c2e9728ccd2b2515d532b&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235868725.jpg?k=326443b459591550cf84a66300f4eae0fed379054dafc091c29929320104d92f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235868730.jpg?k=da101b87dac6752bbc4755faf16c68b6fa52ec056a9a4658dd8695724aa2fe00&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/10716385.jpg?k=11f728af5845499b11ee18347a611c0b678aee46fcb9b1f2abbaee034c137e18&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235866645.jpg?k=9cd3eabdde8746ba9bd1b3743f7f304cb8d8f64bb9678c863f91cef229c9d06f&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235866556.jpg?k=2aa8a1d4fb08fd45e2c15f85dc583abfdfc8d12d9fba1541a356f62213c48162&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235866562.jpg?k=667edbbf88d8dc79d88126d6607588d0c74cfcc8d2b18e079b26e464ef4020d9&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/69099238.jpg?k=5b4768628345e186c30fb712adb81d9243b61b27c89db4c9310251b0584b5ef1&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235866549.jpg?k=72d75646ba5d09f2bdb2ec8af63a27b5bc30f65c62d4881352a7b9c813494d9b&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235866509.jpg?k=056aaea4ae00f0cf153a224b82568f6f8c3ce278a0026defbc6156e86c54de0d&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235866386.jpg?k=8c40c71da268bef2b12397e817df17daf4789ca3ff83a5ae5481ce3225ea8a55&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/6960917.jpg?k=98532eb75da1503596ea10ade50e50c972852f73282fb7bacf360c3c557fc220&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/7288962.jpg?k=4eaa3283d0c75332d91ea298f26d1177c1ee2e976e61cf63f822c892e91766dd&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/10715900.jpg?k=77327a2890ee778b55673a92202b6adb2c0a976b9185f2f45d6e08d338a05547&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/10716654.jpg?k=80e3f7fbd50047766a34d5f0e3e290d2bd703a7e26e491416d386f2d116274cd&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/10716554.jpg?k=48a8b5038bacf6be4928bcd9820f7129c3d03b43440903f22773f5a25589a174&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/6961154.jpg?k=4f8a156c1e1f28997c1208e076885eb315720193cb47773180afd311d28f684b&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/33763790.jpg?k=a86b30bd5961c1fe82a9cb897e098c7d6f9b68e88968c07759c28989b59a468e&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304409251.jpg?k=866030e61eab85cd794a74892ca597842bb85b4e88afe58c8f974b62c1db6951&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304411905.jpg?k=8b49a8f4691e959c58aeea83bccea2861e4d6174f17ca32ad178a501cc899392&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315345529.jpg?k=2f6d4448a965e861e1f5d05a14e199f6956308ec352e6e2767fee71c5445d56b&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315345631.jpg?k=c5d12d1307eddf1105ad9d3bcb2590e56c70be02a94647d9fd55ae37a1d0bfcf&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315346202.jpg?k=ef6ffea801b79d3540822a9a27fc2dee6d8a9c8f45254b0389f2accad76a186d&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315346206.jpg?k=eb7ddfcbe09714bb3b03218f89669b8d4671c31b7d0a9ee6672dd18119585dd8&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315346198.jpg?k=1a73471e0de9630444672cf7546bb18b449214d618d9e4914fcb5a1fde8e8d99&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/315346946.jpg?k=f01e9a8e2bbf7382670bb1828418add9a072129e7c85da68579b959758c31b09&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/380060383.jpg?k=f68843cc9413bc2a30d6f103b1198051df611c83e057018cd2731339e58fc692&o=&hp=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235866314.jpg?k=ef62d5e0000379776ceb9380db6e89e95588414119f3a33b7301ebff694f7935&o=&hp=1"
+  ],
+  "categoryReviews": [
+    {
+      "title": "Staff",
+      "score": 9.8
+    },
+    {
+      "title": "Facilities",
+      "score": 9.2
+    },
+    {
+      "title": "Cleanliness",
+      "score": 9.5
+    },
+    {
+      "title": "Comfort",
+      "score": 9.6
+    },
+    {
+      "title": "Value for money",
+      "score": 9.1
+    },
+    {
+      "title": "Location",
+      "score": 9.4
+    },
+    {
+      "title": "Free WiFi",
+      "score": 9.2
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Bathroom",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Toilet paper",
+          "additionalInfo": []
+        },
+        {
+          "name": "Towels",
+          "additionalInfo": []
+        },
+        {
+          "name": "Additional bathroom",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bath or shower",
+          "additionalInfo": []
+        },
+        {
+          "name": "Private bathroom",
+          "additionalInfo": []
+        },
+        {
+          "name": "Toilet",
+          "additionalInfo": []
+        },
+        {
+          "name": "Free toiletries",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bathrobe",
+          "additionalInfo": []
+        },
+        {
+          "name": "Hairdryer",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bath",
+          "additionalInfo": []
+        },
+        {
+          "name": "Shower",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Bedroom",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Linen",
+          "additionalInfo": []
+        },
+        {
+          "name": "Wardrobe or closet",
+          "additionalInfo": []
+        },
+        {
+          "name": "Alarm clock",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "View",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Garden view",
+          "additionalInfo": []
+        },
+        {
+          "name": "View",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoors",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Outdoor furniture",
+          "additionalInfo": []
+        },
+        {
+          "name": "Outdoor dining area",
+          "additionalInfo": []
+        },
+        {
+          "name": "Sun terrace",
+          "additionalInfo": []
+        },
+        {
+          "name": "BBQ facilities",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Patio",
+          "additionalInfo": []
+        },
+        {
+          "name": "Terrace",
+          "additionalInfo": []
+        },
+        {
+          "name": "Garden",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Kitchen",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Coffee machine",
+          "additionalInfo": []
+        },
+        {
+          "name": "Electric kettle",
+          "additionalInfo": []
+        },
+        {
+          "name": "Refrigerator",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Room Amenities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Socket near the bed",
+          "additionalInfo": []
+        },
+        {
+          "name": "Fold-up bed",
+          "additionalInfo": []
+        },
+        {
+          "name": "Clothes rack",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Activities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Tour or class about local culture",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Themed dinner nights",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Bike tours",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Walking tours",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Temporary art galleries",
+          "additionalInfo": [
+            "Off-site"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Media & Technology",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Flat-screen TV",
+          "additionalInfo": []
+        },
+        {
+          "name": "Cable channels",
+          "additionalInfo": []
+        },
+        {
+          "name": "Satellite channels",
+          "additionalInfo": []
+        },
+        {
+          "name": "Video",
+          "additionalInfo": []
+        },
+        {
+          "name": "CD player",
+          "additionalInfo": []
+        },
+        {
+          "name": "DVD player",
+          "additionalInfo": []
+        },
+        {
+          "name": "Radio",
+          "additionalInfo": []
+        },
+        {
+          "name": "Telephone",
+          "additionalInfo": []
+        },
+        {
+          "name": "TV",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Food & Drink",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Coffee house on site",
+          "additionalInfo": []
+        },
+        {
+          "name": "Fruits",
+          "additionalInfo": []
+        },
+        {
+          "name": "Wine/champagne",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Kid meals",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Special diet menus (on request)",
+          "additionalInfo": []
+        },
+        {
+          "name": "Snack bar",
+          "additionalInfo": []
+        },
+        {
+          "name": "Breakfast in the room",
+          "additionalInfo": []
+        },
+        {
+          "name": "Bar",
+          "additionalInfo": []
+        },
+        {
+          "name": "Minibar",
+          "additionalInfo": []
+        },
+        {
+          "name": "Restaurant",
+          "additionalInfo": []
+        },
+        {
+          "name": "Tea/Coffee maker",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Internet",
+      "overview": "WiFi is available in all areas and is free of charge.",
+      "facilities": []
+    },
+    {
+      "name": "Parking",
+      "overview": "Free public parking is possible on site (reservation is not needed).",
+      "facilities": [
+        {
+          "name": "Street parking",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Reception services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Invoice provided",
+          "additionalInfo": []
+        },
+        {
+          "name": "Lockers",
+          "additionalInfo": []
+        },
+        {
+          "name": "Private check-in/check-out",
+          "additionalInfo": []
+        },
+        {
+          "name": "Concierge service",
+          "additionalInfo": []
+        },
+        {
+          "name": "Luggage storage",
+          "additionalInfo": []
+        },
+        {
+          "name": "Tour desk",
+          "additionalInfo": []
+        },
+        {
+          "name": "Currency exchange",
+          "additionalInfo": []
+        },
+        {
+          "name": "Express check-in/check-out",
+          "additionalInfo": []
+        },
+        {
+          "name": "24-hour front desk",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Entertainment and family services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Babysitting/child services",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cleaning services",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Daily housekeeping",
+          "additionalInfo": []
+        },
+        {
+          "name": "Ironing service",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Dry cleaning",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Laundry",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business facilities",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Fax/photocopying",
+          "additionalInfo": []
+        },
+        {
+          "name": "Meeting/banquet facilities",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Safety & security",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Fire extinguishers",
+          "additionalInfo": []
+        },
+        {
+          "name": "CCTV outside property",
+          "additionalInfo": []
+        },
+        {
+          "name": "CCTV in common areas",
+          "additionalInfo": []
+        },
+        {
+          "name": "Smoke alarms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Security alarm",
+          "additionalInfo": []
+        },
+        {
+          "name": "Key access",
+          "additionalInfo": []
+        },
+        {
+          "name": "24-hour security",
+          "additionalInfo": []
+        },
+        {
+          "name": "Safety deposit box",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "General",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Shuttle service",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Shared lounge/TV area",
+          "additionalInfo": []
+        },
+        {
+          "name": "Designated smoking area",
+          "additionalInfo": []
+        },
+        {
+          "name": "Air conditioning",
+          "additionalInfo": []
+        },
+        {
+          "name": "Wake-up service",
+          "additionalInfo": []
+        },
+        {
+          "name": "Heating",
+          "additionalInfo": []
+        },
+        {
+          "name": "Soundproofing",
+          "additionalInfo": []
+        },
+        {
+          "name": "Car hire",
+          "additionalInfo": []
+        },
+        {
+          "name": "Soundproof rooms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Fan",
+          "additionalInfo": []
+        },
+        {
+          "name": "Family rooms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Airport shuttle",
+          "additionalInfo": [
+            "Additional charge"
+          ]
+        },
+        {
+          "name": "Non-smoking rooms",
+          "additionalInfo": []
+        },
+        {
+          "name": "Wake up service/Alarm clock",
+          "additionalInfo": []
+        },
+        {
+          "name": "Room service",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Accessibility",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Upper floors accessible by stairs only",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoor swimming pool",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Open all year",
+          "additionalInfo": []
+        },
+        {
+          "name": "Shallow end",
+          "additionalInfo": []
+        },
+        {
+          "name": "Pool/beach towels",
+          "additionalInfo": []
+        },
+        {
+          "name": "Sun loungers or beach chairs",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Wellness",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Sun umbrellas",
+          "additionalInfo": []
+        },
+        {
+          "name": "Sun loungers or beach chairs",
+          "additionalInfo": []
+        },
+        {
+          "name": "Solarium",
+          "additionalInfo": []
+        }
+      ]
+    },
+    {
+      "name": "Languages spoken",
+      "overview": null,
+      "facilities": [
+        {
+          "name": "Arabic",
+          "additionalInfo": []
+        },
+        {
+          "name": "English",
+          "additionalInfo": []
+        },
+        {
+          "name": "French",
+          "additionalInfo": []
+        }
+      ]
+    }
+  ],
+  "hotelChain": null,
+  "reviewScoresDistribution": {
+    "1": 1,
+    "2": 4,
+    "3": 12,
+    "4": 60,
+    "5": 455
+  },
+  "timeOfScrapeISO": "2023-12-24T10:24:55.181Z"
+}]
