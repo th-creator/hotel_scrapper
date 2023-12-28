@@ -1,0 +1,691 @@
+[{
+  "id": 8825271,
+  "url": "https://www.booking.com/hotel/ma/sous-immo.html",
+  "ufi": -20029,
+  "name": "sous immo",
+  "address": {
+    "longitude": -9.56498675329,
+    "latitude": 30.42877962814,
+    "street": "8000 Agadir",
+    "city": "agadir",
+    "country": "ma"
+  },
+  "type": "Apartments",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/375919685.jpg?k=f78ca5140f797960f3a023c43ea50d6e45a0a928f025918ce912ce240f5d159b&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/375919685.jpg?k=f78ca5140f797960f3a023c43ea50d6e45a0a928f025918ce912ce240f5d159b&o="
+  },
+  "location": {
+    "name": "Agadir",
+    "distance": "2 miles from center"
+  },
+  "reviews": {
+    "count": 0,
+    "score": 0,
+    "secondary": {
+      "score": 0
+    }
+  },
+  "sustainability": {
+    "tier": "NONE"
+  }
+},
+{
+  "id": 9076030,
+  "url": "https://www.booking.com/hotel/ma/route-de-miel-agadir.html",
+  "ufi": -20029,
+  "name": "Route de miel",
+  "rating": 3,
+  "address": {
+    "street": "toughza2",
+    "city": "Agadir",
+    "country": "ma",
+    "latitude": 30.4949196592167,
+    "longitude": -9.64936621841975
+  },
+  "type": "Apartments",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/472208130.jpg?k=a9c881e5cdff3f7a937562a0479dacc37baf7ec576e007a5f418c57c37477a25&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/472208130.jpg?k=a9c881e5cdff3f7a937562a0479dacc37baf7ec576e007a5f418c57c37477a25&o="
+  },
+  "location": {
+    "name": "Agadir",
+    "beach": "1.6 miles from beach",
+    "distance": "7.1 miles from center"
+  },
+  "reviews": {
+    "count": 111,
+    "score": 9.5,
+    "text": "Exceptional",
+    "secondary": {
+      "score": 0
+    }
+  },
+  "preferred": true,
+  "plus": true,
+  "sustainability": {
+    "facilities": [
+      500
+    ],
+    "tier": "NONE"
+  },
+  "price": {
+    "discounts": [
+      {
+        "amount": 12.5040509982682,
+        "currency": "USD",
+        "text": "Early Booker Deal"
+      }
+    ],
+    "original": {
+      "amount": 89.3146499876299,
+      "currency": "USD",
+      "text": "$89.31 × 1 night"
+    },
+    "summary": {
+      "amount": 76.8105989893617,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "freeCancellation": true
+  },
+  "blocks": [
+    {
+      "roomId": "907603006",
+      "mealPlanId": 2,
+      "occupancy": 4,
+      "original": {
+        "amount": 69.66,
+        "currency": "EUR"
+      },
+      "final": {
+        "currency": "USD",
+        "amount": 76.8105989893617
+      },
+      "freeCancellationUntil": "2024-02-26T23:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "area": {
+        "unit": "feet²",
+        "area": "645.8"
+      },
+      "bathrooms": 1,
+      "unitTypeNames": [
+        {
+          "translation": "Entire apartment"
+        }
+      ],
+      "allBeds": 5,
+      "maxChildren": 0,
+      "unitId": 0,
+      "livingrooms": 1,
+      "maxAdults": 4,
+      "bedrooms": 1,
+      "units": 1,
+      "kitchens": 1,
+      "bedConfigurations": [
+        {
+          "beds": [
+            {
+              "count": 2,
+              "type": 1
+            },
+            {
+              "count": 3,
+              "type": 5
+            }
+          ],
+          "allBeds": 5
+        }
+      ]
+    },
+    "units": [
+      {
+        "name": "Apartment with Terrace",
+        "unitId": 907603006,
+        "maxChildren": 0,
+        "allBeds": 5,
+        "bathrooms": 1,
+        "unitTypeNames": [
+          {
+            "translation": "Entire apartment"
+          }
+        ],
+        "area": {
+          "area": "645.8",
+          "unit": "feet²"
+        },
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "count": 2,
+                "type": 1
+              },
+              {
+                "count": 3,
+                "type": 5
+              }
+            ],
+            "allBeds": 5
+          }
+        ],
+        "units": 1,
+        "kitchens": 1,
+        "bedrooms": 1,
+        "maxAdults": 4,
+        "apartmentRooms": [
+          {
+            "config": {
+              "roomType": "Bedroom",
+              "bedTypeId": 1,
+              "bedCount": 2,
+              "roomId": 84698758
+            }
+          },
+          {
+            "config": {
+              "bedTypeId": 5,
+              "bedCount": 3,
+              "roomId": 84698759,
+              "roomType": "Living Room"
+            }
+          }
+        ],
+        "livingrooms": 1
+      }
+    ]
+  }
+},
+{
+  "id": 11180777,
+  "url": "https://www.booking.com/hotel/ma/magnificent-agadir-bay-apartments.html",
+  "ufi": -20029,
+  "name": "Magnificent agadir bay apartments",
+  "rating": 3,
+  "address": {
+    "longitude": -9.585515424138,
+    "latitude": 30.400966077184,
+    "country": "ma",
+    "city": "Agadir",
+    "street": "Agadir bay founty"
+  },
+  "type": "Apartments",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/511935469.jpg?k=376e7311e6f348245fe64315e5f8c07648ea42a837293ba7e247b5e58d220d51&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/511935469.jpg?k=376e7311e6f348245fe64315e5f8c07648ea42a837293ba7e247b5e58d220d51&o="
+  },
+  "location": {
+    "name": "Founty, Agadir",
+    "beach": "4,650 feet from beach",
+    "distance": "0.5 miles from center"
+  },
+  "reviews": {
+    "count": 5,
+    "score": 10,
+    "text": "Exceptional",
+    "secondary": {
+      "score": 10,
+      "text": "Location"
+    }
+  },
+  "preferred": true,
+  "sustainability": {
+    "tier": "NONE"
+  },
+  "price": {
+    "summary": {
+      "amount": 122.394149983048,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "freeCancellation": true,
+    "noPrepayment": true
+  },
+  "blocks": [
+    {
+      "roomId": "1118077701",
+      "mealPlanId": 0,
+      "occupancy": 6,
+      "original": {
+        "amount": 111,
+        "currency": "EUR"
+      },
+      "final": {
+        "amount": 122.394149983048,
+        "currency": "USD"
+      },
+      "freeCancellationUntil": "2024-02-26T23:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "livingrooms": 1,
+      "bedrooms": 2,
+      "maxAdults": 6,
+      "bedConfigurations": [
+        {
+          "beds": [
+            {
+              "count": 2,
+              "type": 1
+            },
+            {
+              "count": 3,
+              "type": 5
+            },
+            {
+              "type": 6,
+              "count": 1
+            }
+          ],
+          "allBeds": 6
+        }
+      ],
+      "kitchens": 0,
+      "units": 1,
+      "area": {
+        "area": "968.8",
+        "unit": "feet²"
+      },
+      "allBeds": 6,
+      "bathrooms": 2,
+      "unitId": 0,
+      "maxChildren": 0
+    },
+    "units": [
+      {
+        "name": "Two-Bedroom Apartment",
+        "maxChildren": 0,
+        "unitId": 1118077701,
+        "bathrooms": 2,
+        "allBeds": 6,
+        "area": {
+          "unit": "feet²",
+          "area": "968.8"
+        },
+        "kitchens": 0,
+        "units": 1,
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "type": 1,
+                "count": 2
+              },
+              {
+                "type": 5,
+                "count": 3
+              },
+              {
+                "type": 6,
+                "count": 1
+              }
+            ],
+            "allBeds": 6
+          }
+        ],
+        "maxAdults": 6,
+        "bedrooms": 2,
+        "apartmentRooms": [
+          {
+            "config": {
+              "bedCount": 1,
+              "roomId": 87165645,
+              "bedTypeId": 6,
+              "roomType": "Bedroom"
+            }
+          },
+          {
+            "config": {
+              "roomType": "Bedroom",
+              "bedTypeId": 1,
+              "bedCount": 2,
+              "roomId": 87165646
+            }
+          },
+          {
+            "config": {
+              "roomType": "Living Room",
+              "bedCount": 3,
+              "roomId": 87165647,
+              "bedTypeId": 5
+            }
+          }
+        ],
+        "livingrooms": 1
+      }
+    ]
+  }
+},
+{
+  "id": 8837774,
+  "url": "https://www.booking.com/hotel/ma/stayhere-marina-agadir.html",
+  "ufi": -20029,
+  "name": "StayHere Marina Agadir",
+  "rating": 3,
+  "address": {
+    "longitude": -9.612651095429,
+    "latitude": 30.424977126904,
+    "country": "ma",
+    "city": "Agadir",
+    "street": "Avenue Mohammed V"
+  },
+  "type": "Apartments",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/378460019.jpg?k=999bc873d403db504492dd179cd4726902cd8eacac3c137b5e367537578881e1&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/378460019.jpg?k=999bc873d403db504492dd179cd4726902cd8eacac3c137b5e367537578881e1&o="
+  },
+  "location": {
+    "name": "City Centre, Agadir",
+    "beach": "500 feet from beach",
+    "distance": "1.9 miles from center"
+  },
+  "reviews": {
+    "count": 147,
+    "score": 8.5,
+    "text": "Very Good",
+    "secondary": {
+      "score": 0
+    }
+  },
+  "externalReviews": {
+    "count": 50,
+    "score": 8,
+    "text": "Very Good"
+  },
+  "preferred": true,
+  "sustainability": {
+    "tier": "NONE"
+  },
+  "price": {
+    "summary": {
+      "amount": 168.705449976634,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "freeCancellation": true,
+    "noPrepayment": true
+  },
+  "blocks": [
+    {
+      "roomId": "883777402",
+      "mealPlanId": 0,
+      "occupancy": 4,
+      "original": {
+        "amount": 153,
+        "currency": "EUR"
+      },
+      "final": {
+        "amount": 168.705449976634,
+        "currency": "USD"
+      },
+      "freeCancellationUntil": "2024-02-24T23:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "bedrooms": 2,
+      "maxAdults": 4,
+      "bedConfigurations": [
+        {
+          "beds": [
+            {
+              "type": 3,
+              "count": 2
+            },
+            {
+              "count": 1,
+              "type": 5
+            }
+          ],
+          "allBeds": 3
+        }
+      ],
+      "units": 1,
+      "kitchens": 0,
+      "livingrooms": 1,
+      "unitId": 0,
+      "maxChildren": 0,
+      "area": {
+        "unit": "feet²",
+        "area": "1,291.7"
+      },
+      "allBeds": 3,
+      "bathrooms": 2,
+      "unitTypeNames": [
+        {
+          "translation": "Entire apartment"
+        }
+      ]
+    },
+    "units": [
+      {
+        "area": {
+          "unit": "feet²",
+          "area": "1,291.7"
+        },
+        "allBeds": 3,
+        "unitTypeNames": [
+          {
+            "translation": "Entire apartment"
+          }
+        ],
+        "bathrooms": 2,
+        "maxChildren": 0,
+        "unitId": 883777402,
+        "name": "Two-Bedroom Apartment",
+        "livingrooms": 1,
+        "apartmentRooms": [
+          {
+            "config": {
+              "bedCount": 1,
+              "roomId": 67719076,
+              "bedTypeId": 3,
+              "roomType": "Bedroom"
+            }
+          },
+          {
+            "config": {
+              "bedTypeId": 3,
+              "bedCount": 1,
+              "roomId": 67719075,
+              "roomType": "Bedroom"
+            }
+          },
+          {
+            "config": {
+              "bedCount": 1,
+              "bedTypeId": 5,
+              "roomId": 67719077,
+              "roomType": "Living Room"
+            }
+          }
+        ],
+        "bedrooms": 2,
+        "maxAdults": 4,
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "count": 2,
+                "type": 3
+              },
+              {
+                "count": 1,
+                "type": 5
+              }
+            ],
+            "allBeds": 3
+          }
+        ],
+        "kitchens": 0,
+        "units": 1
+      }
+    ]
+  }
+},
+{
+  "id": 10358414,
+  "url": "https://www.booking.com/hotel/ma/amiral-isalan-appartement.html",
+  "ufi": -20029,
+  "name": "Magnificent ISLAN pool&balcony",
+  "rating": 3,
+  "address": {
+    "street": "Résidence Islan gh 26 hay mohmmadi",
+    "country": "ma",
+    "city": "Agadir",
+    "longitude": -9.563388754742,
+    "latitude": 30.435711890159
+  },
+  "type": "Apartments",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/493823219.jpg?k=609746a133c004294dc6bf01bb8f7c91c79d38c4a818119453131474fd192b1c&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/493823219.jpg?k=609746a133c004294dc6bf01bb8f7c91c79d38c4a818119453131474fd192b1c&o="
+  },
+  "location": {
+    "name": "Agadir",
+    "distance": "2.4 miles from center"
+  },
+  "reviews": {
+    "count": 23,
+    "score": 9.8,
+    "text": "Exceptional",
+    "secondary": {
+      "score": 9.8,
+      "text": "Location"
+    }
+  },
+  "preferred": true,
+  "sustainability": {
+    "tier": "NONE"
+  },
+  "price": {
+    "summary": {
+      "amount": 54.0298499925169,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "freeCancellation": true,
+    "noPrepayment": true
+  },
+  "blocks": [
+    {
+      "roomId": "1035841401",
+      "mealPlanId": 0,
+      "occupancy": 4,
+      "original": {
+        "amount": 49,
+        "currency": "EUR"
+      },
+      "final": {
+        "amount": 54.0298499925169,
+        "currency": "USD"
+      },
+      "freeCancellationUntil": "2024-02-28T23:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "bedrooms": 1,
+      "maxAdults": 4,
+      "bedConfigurations": [
+        {
+          "beds": [
+            {
+              "count": 1,
+              "type": 2
+            },
+            {
+              "type": 5,
+              "count": 2
+            }
+          ],
+          "allBeds": 3
+        }
+      ],
+      "kitchens": 1,
+      "units": 1,
+      "livingrooms": 1,
+      "unitId": 0,
+      "maxChildren": 0,
+      "area": {
+        "unit": "feet²",
+        "area": "592"
+      },
+      "allBeds": 3,
+      "bathrooms": 1,
+      "unitTypeNames": [
+        {
+          "translation": "Entire apartment"
+        }
+      ]
+    },
+    "units": [
+      {
+        "allBeds": 3,
+        "bathrooms": 1,
+        "unitTypeNames": [
+          {
+            "translation": "Entire apartment"
+          }
+        ],
+        "area": {
+          "unit": "feet²",
+          "area": "592"
+        },
+        "name": "One-Bedroom Apartment",
+        "maxChildren": 0,
+        "unitId": 1035841401,
+        "apartmentRooms": [
+          {
+            "config": {
+              "roomType": "Bedroom",
+              "bedCount": 1,
+              "bedTypeId": 2,
+              "roomId": 83152757
+            }
+          },
+          {
+            "config": {
+              "roomType": "Living Room",
+              "bedCount": 2,
+              "bedTypeId": 5,
+              "roomId": 83152758
+            }
+          }
+        ],
+        "livingrooms": 1,
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "type": 2,
+                "count": 1
+              },
+              {
+                "type": 5,
+                "count": 2
+              }
+            ],
+            "allBeds": 3
+          }
+        ],
+        "kitchens": 1,
+        "units": 1,
+        "bedrooms": 1,
+        "maxAdults": 4
+      }
+    ]
+  }
+}]

@@ -1,0 +1,632 @@
+[{
+  "id": 5806663,
+  "url": "https://www.booking.com/hotel/ma/riad-sidrat-fes.html",
+  "ufi": -32910,
+  "name": "Riad Sidrat Fes",
+  "rating": 4,
+  "address": {
+    "longitude": -4.980518,
+    "city": "Fes",
+    "latitude": 34.063987,
+    "street": "4 bis Derb Horra ,Talaa Kebira",
+    "country": "ma"
+  },
+  "type": "Guesthouses",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/239509624.jpg?k=92a5ae83ca3e5979c56c2a2d111907805c186ed190ebb5768be417400dab9b06&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/239509624.jpg?k=92a5ae83ca3e5979c56c2a2d111907805c186ed190ebb5768be417400dab9b06&o="
+  },
+  "location": {
+    "name": "Fes El Bali, Fez",
+    "distance": "2.4 miles from center"
+  },
+  "reviews": {
+    "count": 968,
+    "score": 9.2,
+    "text": "Wonderful",
+    "secondary": {
+      "score": 9.6,
+      "text": "Location"
+    }
+  },
+  "preferred": true,
+  "plus": true,
+  "sustainability": {
+    "facilities": [
+      436,
+      445
+    ],
+    "sustainable": true,
+    "tier": "BRONZE"
+  },
+  "price": {
+    "summary": {
+      "amount": 84.3527249883171,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "meals": "Breakfast included",
+  "blocks": [
+    {
+      "roomId": "580666307",
+      "mealPlanId": 1,
+      "occupancy": 0,
+      "original": {
+        "amount": 76.5,
+        "currency": "EUR"
+      },
+      "final": {
+        "currency": "USD",
+        "amount": 84.3527249883171
+      }
+    }
+  ],
+  "configuration": {
+    "common": {
+      "allBeds": 2,
+      "maxAdults": 2,
+      "units": 1,
+      "unitId": 0,
+      "maxChildren": 0,
+      "bedrooms": 0,
+      "kitchens": 0,
+      "bathrooms": 0,
+      "bedConfigurations": [
+        {
+          "allBeds": 2,
+          "beds": [
+            {
+              "count": 2,
+              "type": 1
+            }
+          ]
+        }
+      ],
+      "livingrooms": 0
+    },
+    "units": [
+      {
+        "kitchens": 0,
+        "bedrooms": 0,
+        "maxChildren": 0,
+        "livingrooms": 0,
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "count": 2,
+                "type": 1
+              }
+            ],
+            "allBeds": 2
+          }
+        ],
+        "bathrooms": 0,
+        "allBeds": 2,
+        "name": "Deluxe Twin Room",
+        "unitId": 580666307,
+        "units": 1,
+        "maxAdults": 2
+      }
+    ]
+  }
+},
+{
+  "id": 98253,
+  "url": "https://www.booking.com/hotel/ma/jnan-palace-fes.html",
+  "ufi": -32910,
+  "name": "Fes Marriott Hotel Jnan Palace",
+  "rating": 5,
+  "address": {
+    "city": "Fes",
+    "longitude": -5.00383257865906,
+    "country": "ma",
+    "latitude": 34.032629935295,
+    "street": "Avenue Ahmed Chaouki"
+  },
+  "type": "Hotels",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/442019616.jpg?k=3ce93f3a6af72e1986836c65f48f67018edfc3f0276fbb6a1e9e06de9477c5f4&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/442019616.jpg?k=3ce93f3a6af72e1986836c65f48f67018edfc3f0276fbb6a1e9e06de9477c5f4&o="
+  },
+  "location": {
+    "name": "Fez",
+    "distance": "0.3 miles from center"
+  },
+  "reviews": {
+    "count": 1920,
+    "score": 8.4,
+    "text": "Very Good",
+    "secondary": {
+      "score": 0
+    }
+  },
+  "preferred": true,
+  "sustainability": {
+    "facilities": [
+      435,
+      436,
+      439,
+      440,
+      441,
+      444,
+      445,
+      446,
+      448,
+      489,
+      492,
+      493,
+      496,
+      497,
+      499,
+      500,
+      502,
+      505,
+      506
+    ],
+    "sustainable": true,
+    "tier": "SILVER"
+  },
+  "price": {
+    "summary": {
+      "amount": 145.266729436121,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "blocks": [
+    {
+      "roomId": "9825326",
+      "mealPlanId": 42,
+      "occupancy": 2,
+      "original": {
+        "currency": "MAD",
+        "amount": 1440
+      },
+      "final": {
+        "currency": "USD",
+        "amount": 145.266729436121
+      }
+    }
+  ],
+  "configuration": {
+    "common": {
+      "bedrooms": 0,
+      "kitchens": 0,
+      "maxChildren": 0,
+      "bathrooms": 0,
+      "livingrooms": 0,
+      "bedConfigurations": [
+        {
+          "allBeds": 1,
+          "beds": [
+            {
+              "type": 3,
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "allBeds": 1,
+      "units": 1,
+      "maxAdults": 2,
+      "unitId": 0
+    },
+    "units": [
+      {
+        "livingrooms": 0,
+        "bedConfigurations": [
+          {
+            "allBeds": 1,
+            "beds": [
+              {
+                "type": 3,
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "bathrooms": 0,
+        "bedrooms": 0,
+        "kitchens": 0,
+        "maxChildren": 0,
+        "unitId": 9825326,
+        "units": 1,
+        "maxAdults": 2,
+        "name": "Deluxe Room, Guest room, 1 King, Garden view, Balcony",
+        "allBeds": 1
+      }
+    ]
+  }
+},
+{
+  "id": 1059149,
+  "url": "https://www.booking.com/hotel/ma/dar-hafsa.html",
+  "ufi": -32910,
+  "name": "Dar Hafsa",
+  "rating": 3,
+  "address": {
+    "longitude": -4.97821480035782,
+    "city": "Fès",
+    "latitude": 34.0623390881649,
+    "street": "34 Souiket Ben Safi, Derb Sidi Safi Tala Sghira ",
+    "country": "ma"
+  },
+  "type": "Bed and Breakfasts",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/387180529.jpg?k=71e7eeb07e8924a618ef4ecbde1a1be3ee9639fb54243f6a2f3b783b7158e6d7&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/387180529.jpg?k=71e7eeb07e8924a618ef4ecbde1a1be3ee9639fb54243f6a2f3b783b7158e6d7&o="
+  },
+  "location": {
+    "name": "Fes El Bali, Fez",
+    "distance": "2.3 miles from center"
+  },
+  "reviews": {
+    "count": 1070,
+    "score": 9.4,
+    "text": "Wonderful",
+    "secondary": {
+      "score": 9.6,
+      "text": "Location"
+    }
+  },
+  "preferred": true,
+  "sustainability": {
+    "facilities": [
+      436,
+      439,
+      440,
+      443,
+      445,
+      489,
+      491,
+      492,
+      499,
+      502,
+      503,
+      506
+    ],
+    "sustainable": true,
+    "tier": "BRONZE"
+  },
+  "price": {
+    "summary": {
+      "amount": 49.6192499931277,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "freeCancellation": true,
+    "noPrepayment": true
+  },
+  "meals": "Breakfast included",
+  "blocks": [
+    {
+      "roomId": "105914901",
+      "mealPlanId": 1,
+      "occupancy": 2,
+      "original": {
+        "currency": "EUR",
+        "amount": 45
+      },
+      "final": {
+        "currency": "USD",
+        "amount": 49.6192499931277
+      },
+      "freeCancellationUntil": "2024-09-03T23:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "allBeds": 1,
+      "unitId": 0,
+      "units": 1,
+      "maxAdults": 2,
+      "bedrooms": 0,
+      "kitchens": 0,
+      "maxChildren": 0,
+      "livingrooms": 0,
+      "bedConfigurations": [
+        {
+          "allBeds": 1,
+          "beds": [
+            {
+              "count": 1,
+              "type": 6
+            }
+          ]
+        }
+      ],
+      "bathrooms": 0
+    },
+    "units": [
+      {
+        "allBeds": 1,
+        "name": "Deluxe Double Room",
+        "units": 1,
+        "maxAdults": 2,
+        "unitId": 105914901,
+        "kitchens": 0,
+        "bedrooms": 0,
+        "maxChildren": 0,
+        "bathrooms": 0,
+        "livingrooms": 0,
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "type": 6,
+                "count": 1
+              }
+            ],
+            "allBeds": 1
+          }
+        ]
+      }
+    ]
+  }
+},
+{
+  "id": 10256339,
+  "url": "https://www.booking.com/hotel/ma/riad-tarab-fes.html",
+  "ufi": -32910,
+  "name": "Riad Tarab Fes",
+  "rating": 3,
+  "address": {
+    "longitude": -4.98182608994513,
+    "city": "Fès",
+    "street": "N 18 Rue Tariana soghra rue Talaa Sghira",
+    "latitude": 34.0623554687037,
+    "country": "ma"
+  },
+  "type": "Guesthouses",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/468900807.jpg?k=9cfbc0656a5846974deccaa0298481b8fa4be0bdae1358b10ca884dab7e49c7b&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/468900807.jpg?k=9cfbc0656a5846974deccaa0298481b8fa4be0bdae1358b10ca884dab7e49c7b&o="
+  },
+  "location": {
+    "name": "Fes El Bali, Fez",
+    "distance": "2.2 miles from center"
+  },
+  "reviews": {
+    "count": 130,
+    "score": 9.5,
+    "text": "Exceptional",
+    "secondary": {
+      "score": 9.7,
+      "text": "Location"
+    }
+  },
+  "externalReviews": {
+    "count": 3,
+    "score": 10,
+    "text": "Exceptional"
+  },
+  "preferred": true,
+  "sustainability": {
+    "tier": "NONE"
+  },
+  "price": {
+    "summary": {
+      "amount": 36.6631124949222,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "freeCancellation": true,
+    "noPrepayment": true
+  },
+  "meals": "Breakfast included",
+  "blocks": [
+    {
+      "roomId": "1025633906",
+      "mealPlanId": 41,
+      "occupancy": 1,
+      "original": {
+        "currency": "EUR",
+        "amount": 33.25
+      },
+      "final": {
+        "amount": 36.6631124949222,
+        "currency": "USD"
+      },
+      "freeCancellationUntil": "2024-09-06T17:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "units": 1,
+      "maxAdults": 1,
+      "unitId": 0,
+      "allBeds": 2,
+      "bathrooms": 0,
+      "livingrooms": 0,
+      "bedConfigurations": [
+        {
+          "allBeds": 2,
+          "beds": [
+            {
+              "type": 1,
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "bedrooms": 0,
+      "kitchens": 0,
+      "maxChildren": 0
+    },
+    "units": [
+      {
+        "maxChildren": 0,
+        "kitchens": 0,
+        "bedrooms": 0,
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "count": 2,
+                "type": 1
+              }
+            ],
+            "allBeds": 2
+          }
+        ],
+        "livingrooms": 0,
+        "bathrooms": 0,
+        "allBeds": 2,
+        "name": "Twin Room with Private Bathroom",
+        "unitId": 1025633906,
+        "maxAdults": 1,
+        "units": 1
+      }
+    ]
+  }
+},
+{
+  "id": 98272,
+  "url": "https://www.booking.com/hotel/ma/riad-sara.html",
+  "ufi": -32910,
+  "name": "Riad Sara",
+  "rating": 4,
+  "address": {
+    "latitude": 34.0599580357196,
+    "street": "17, Derb el Gabbasse fes - batha- Morocco",
+    "country": "ma",
+    "longitude": -4.9798432638238,
+    "city": "Fes"
+  },
+  "type": "Guesthouses",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/86097927.jpg?k=75416be54ff484ac4c8571957354d03317ee7f5666475a261b2c5c03ee24d7c0&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/86097927.jpg?k=75416be54ff484ac4c8571957354d03317ee7f5666475a261b2c5c03ee24d7c0&o="
+  },
+  "location": {
+    "name": "Fes El Bali, Fez",
+    "distance": "2.1 miles from center"
+  },
+  "reviews": {
+    "count": 464,
+    "score": 9.2,
+    "text": "Wonderful",
+    "secondary": {
+      "score": 9.4,
+      "text": "Location"
+    }
+  },
+  "preferred": true,
+  "sustainability": {
+    "tier": "NONE"
+  },
+  "price": {
+    "summary": {
+      "amount": 45.9253724936393,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "meals": "Breakfast included",
+  "blocks": [
+    {
+      "roomId": "9827202",
+      "mealPlanId": 41,
+      "occupancy": 1,
+      "original": {
+        "amount": 41.65,
+        "currency": "EUR"
+      },
+      "final": {
+        "amount": 45.9253724936393,
+        "currency": "USD"
+      }
+    }
+  ],
+  "configuration": {
+    "common": {
+      "allBeds": 2,
+      "unitId": 0,
+      "units": 1,
+      "maxAdults": 1,
+      "kitchens": 0,
+      "unitTypeNames": [
+        {
+          "translation": "Private suite"
+        }
+      ],
+      "bedrooms": 0,
+      "maxChildren": 0,
+      "livingrooms": 0,
+      "bedConfigurations": [
+        {
+          "beds": [
+            {
+              "count": 1,
+              "type": 1
+            },
+            {
+              "count": 1,
+              "type": 6
+            }
+          ],
+          "allBeds": 2
+        }
+      ],
+      "bathrooms": 0
+    },
+    "units": [
+      {
+        "livingrooms": 0,
+        "bedConfigurations": [
+          {
+            "allBeds": 2,
+            "beds": [
+              {
+                "count": 1,
+                "type": 1
+              },
+              {
+                "type": 6,
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "bathrooms": 0,
+        "kitchens": 0,
+        "bedrooms": 0,
+        "unitTypeNames": [
+          {
+            "translation": "Private suite"
+          }
+        ],
+        "maxChildren": 0,
+        "unitId": 9827202,
+        "apartmentRooms": [
+          {
+            "config": {
+              "roomType": "Bedroom",
+              "roomId": 22583113,
+              "bedCount": 1,
+              "bedTypeId": 1
+            }
+          },
+          {
+            "config": {
+              "bedTypeId": 6,
+              "bedCount": 1,
+              "roomId": 22583113,
+              "roomType": "Bedroom"
+            }
+          }
+        ],
+        "units": 1,
+        "maxAdults": 1,
+        "allBeds": 2,
+        "name": "Suite Sara"
+      }
+    ]
+  }
+}]

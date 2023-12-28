@@ -1,4 +1,4 @@
-const fs = require('    ');
+const fs = require('fs');
 const XLSX = require('xlsx');
 
 // Read the JSON file

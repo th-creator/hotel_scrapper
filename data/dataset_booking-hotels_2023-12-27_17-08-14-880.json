@@ -1,0 +1,629 @@
+[{
+  "id": 247586,
+  "url": "https://www.booking.com/hotel/ma/spa-le-doge.html",
+  "ufi": -28159,
+  "name": "Hôtel particulier Le DOGE - Relais & Châteaux",
+  "rating": 5,
+  "address": {
+    "longitude": -7.62346029281616,
+    "country": "ma",
+    "latitude": 33.5927464585656,
+    "street": "9 Rue Du Docteur Veyre",
+    "city": "Casablanca"
+  },
+  "type": "Hotels",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/277721591.jpg?k=ee1038fd8f337285bdd307a37a939a407a3305f2abf091400f41a1babbd6aef4&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/277721591.jpg?k=ee1038fd8f337285bdd307a37a939a407a3305f2abf091400f41a1babbd6aef4&o="
+  },
+  "location": {
+    "name": "Sidi Belyout, Casablanca",
+    "distance": "0.4 miles from center"
+  },
+  "reviews": {
+    "count": 335,
+    "score": 8.8,
+    "text": "Excellent",
+    "secondary": {
+      "score": 0
+    }
+  },
+  "preferred": true,
+  "sustainability": {
+    "tier": "NONE"
+  },
+  "price": {
+    "summary": {
+      "amount": 198.476999972511,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "noPrepayment": true,
+    "freeCancellation": true
+  },
+  "blocks": [
+    {
+      "roomId": "24758603",
+      "mealPlanId": 2,
+      "occupancy": 0,
+      "original": {
+        "currency": "EUR",
+        "amount": 180
+      },
+      "final": {
+        "currency": "USD",
+        "amount": 198.476999972511
+      },
+      "freeCancellationUntil": "2024-09-02T23:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "bathrooms": 0,
+      "maxAdults": 2,
+      "livingrooms": 0,
+      "maxChildren": 0,
+      "bedrooms": 0,
+      "allBeds": 1,
+      "kitchens": 0,
+      "bedConfigurations": [
+        {
+          "allBeds": 1,
+          "beds": [
+            {
+              "count": 1,
+              "type": 2
+            }
+          ]
+        }
+      ],
+      "unitId": 0,
+      "units": 1
+    },
+    "units": [
+      {
+        "units": 1,
+        "unitId": 24758603,
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "count": 1,
+                "type": 2
+              }
+            ],
+            "allBeds": 1
+          }
+        ],
+        "kitchens": 0,
+        "allBeds": 1,
+        "bedrooms": 0,
+        "maxChildren": 0,
+        "name": "Standard Double Room",
+        "livingrooms": 0,
+        "maxAdults": 2,
+        "bathrooms": 0
+      }
+    ]
+  }
+},
+{
+  "id": 3678902,
+  "url": "https://www.booking.com/hotel/ma/odyssee-center.html",
+  "ufi": -28159,
+  "name": "ODYSSEE Boutique Hotel Casablanca",
+  "rating": 4,
+  "address": {
+    "longitude": -7.614553,
+    "country": "ma",
+    "city": "casablanca",
+    "street": "Angle Rue Kamal Mohamed-Avenue des F.A.R",
+    "latitude": 33.59642
+  },
+  "type": "Hotels",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/161977837.jpg?k=0c2badb5450f36a1015bd16c231b2f236b6d7290f24748642f2820e64e24be9e&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/161977837.jpg?k=0c2badb5450f36a1015bd16c231b2f236b6d7290f24748642f2820e64e24be9e&o="
+  },
+  "location": {
+    "name": "Sidi Belyout, Casablanca",
+    "distance": "0.3 miles from center"
+  },
+  "reviews": {
+    "count": 2502,
+    "score": 8.1,
+    "text": "Very Good",
+    "secondary": {
+      "score": 0
+    }
+  },
+  "preferred": true,
+  "sustainability": {
+    "facilities": [
+      436,
+      439,
+      440,
+      442,
+      443,
+      444,
+      445,
+      446,
+      448,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      499,
+      503,
+      504,
+      505,
+      506
+    ],
+    "sustainable": true,
+    "tier": "GOLD"
+  },
+  "price": {
+    "summary": {
+      "amount": 89.3146499876299,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "freeCancellation": true
+  },
+  "blocks": [
+    {
+      "roomId": "367890213",
+      "mealPlanId": 42,
+      "occupancy": 2,
+      "original": {
+        "currency": "EUR",
+        "amount": 81
+      },
+      "final": {
+        "currency": "USD",
+        "amount": 89.3146499876299
+      },
+      "freeCancellationUntil": "2024-09-06T13:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "allBeds": 1,
+      "bedrooms": 0,
+      "kitchens": 0,
+      "units": 1,
+      "unitId": 0,
+      "bedConfigurations": [
+        {
+          "allBeds": 1,
+          "beds": [
+            {
+              "type": 6,
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "maxAdults": 2,
+      "bathrooms": 0,
+      "maxChildren": 0,
+      "livingrooms": 0
+    },
+    "units": [
+      {
+        "livingrooms": 0,
+        "name": "Deluxe Double Room",
+        "maxChildren": 0,
+        "bathrooms": 0,
+        "maxAdults": 2,
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "type": 6,
+                "count": 1
+              }
+            ],
+            "allBeds": 1
+          }
+        ],
+        "unitId": 367890213,
+        "units": 1,
+        "kitchens": 0,
+        "bedrooms": 0,
+        "allBeds": 1
+      }
+    ]
+  }
+},
+{
+  "id": 9290774,
+  "url": "https://www.booking.com/hotel/ma/stayhere-casablanca-ghautier-apartments.html",
+  "ufi": -28159,
+  "name": "StayHere Casablanca Ghautier Apartments",
+  "rating": 4,
+  "address": {
+    "country": "ma",
+    "longitude": -7.62753575687,
+    "street": "Rue Hafid Ibrahim",
+    "city": "Casablanca",
+    "latitude": 33.588980497297
+  },
+  "type": "Apartments",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/415762897.jpg?k=cba525fecb667953aa49527466d77269605e7c75f161898f8e012f00a68be37f&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/415762897.jpg?k=cba525fecb667953aa49527466d77269605e7c75f161898f8e012f00a68be37f&o="
+  },
+  "location": {
+    "name": "Sidi Belyout, Casablanca",
+    "distance": "0.7 miles from center"
+  },
+  "reviews": {
+    "count": 323,
+    "score": 9.4,
+    "text": "Wonderful",
+    "secondary": {
+      "score": 9.5,
+      "text": "Location"
+    }
+  },
+  "externalReviews": {
+    "count": 9,
+    "score": 10,
+    "text": "Exceptional"
+  },
+  "preferred": true,
+  "sustainability": {
+    "tier": "NONE"
+  },
+  "price": {
+    "summary": {
+      "amount": 84.9040499882408,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "freeCancellation": true,
+    "noPrepayment": true
+  },
+  "blocks": [
+    {
+      "roomId": "929077402",
+      "mealPlanId": 0,
+      "occupancy": 2,
+      "original": {
+        "amount": 77,
+        "currency": "EUR"
+      },
+      "final": {
+        "currency": "USD",
+        "amount": 84.9040499882408
+      },
+      "freeCancellationUntil": "2024-09-04T23:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "maxAdults": 2,
+      "bathrooms": 1,
+      "maxChildren": 0,
+      "livingrooms": 0,
+      "allBeds": 1,
+      "bedrooms": 0,
+      "unitTypeNames": [
+        {
+          "translation": "Entire studio"
+        }
+      ],
+      "kitchens": 0,
+      "units": 1,
+      "bedConfigurations": [
+        {
+          "beds": [
+            {
+              "type": 2,
+              "count": 1
+            }
+          ],
+          "allBeds": 1
+        }
+      ],
+      "unitId": 0
+    },
+    "units": [
+      {
+        "units": 1,
+        "unitId": 929077402,
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "type": 2,
+                "count": 1
+              }
+            ],
+            "allBeds": 1
+          }
+        ],
+        "kitchens": 0,
+        "unitTypeNames": [
+          {
+            "translation": "Entire studio"
+          }
+        ],
+        "bedrooms": 0,
+        "allBeds": 1,
+        "maxChildren": 0,
+        "name": "Studio with Garden View",
+        "livingrooms": 0,
+        "maxAdults": 2,
+        "bathrooms": 1
+      }
+    ]
+  }
+},
+{
+  "id": 2992830,
+  "url": "https://www.booking.com/hotel/ma/iben-tachfine.html",
+  "ufi": -28159,
+  "name": "Relax Hotel Casa Voyageurs",
+  "rating": 3,
+  "address": {
+    "longitude": -7.59242819225301,
+    "country": "ma",
+    "latitude": 33.5866469641615,
+    "city": "Casablanca",
+    "street": "Centre Tachfine, Boulevard Ibn Tachfine "
+  },
+  "type": "Hotels",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/152064088.jpg?k=48a9238c04340e076130c43083d573495b22ee9f7346b739ceee22e8147058b2&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/152064088.jpg?k=48a9238c04340e076130c43083d573495b22ee9f7346b739ceee22e8147058b2&o="
+  },
+  "location": {
+    "name": "Roches Noires, Casablanca",
+    "distance": "1.4 miles from center"
+  },
+  "reviews": {
+    "count": 3064,
+    "score": 8.6,
+    "text": "Excellent",
+    "secondary": {
+      "score": 0
+    }
+  },
+  "preferred": true,
+  "sustainability": {
+    "facilities": [
+      436,
+      439,
+      440,
+      442,
+      443,
+      444,
+      445,
+      448,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      502,
+      503,
+      504,
+      505,
+      506
+    ],
+    "sustainable": true,
+    "tier": "GOLD"
+  },
+  "price": {
+    "summary": {
+      "amount": 60.9985979915517,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "freeCancellation": true
+  },
+  "blocks": [
+    {
+      "roomId": "299283002",
+      "mealPlanId": 2,
+      "occupancy": 0,
+      "original": {
+        "currency": "EUR",
+        "amount": 55.32
+      },
+      "final": {
+        "amount": 60.9985979915517,
+        "currency": "USD"
+      },
+      "freeCancellationUntil": "2024-09-04T23:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "unitId": 0,
+      "bedConfigurations": [
+        {
+          "beds": [
+            {
+              "type": 2,
+              "count": 1
+            }
+          ],
+          "allBeds": 1
+        }
+      ],
+      "units": 1,
+      "bedrooms": 0,
+      "allBeds": 1,
+      "kitchens": 0,
+      "livingrooms": 0,
+      "maxChildren": 0,
+      "bathrooms": 0,
+      "maxAdults": 2
+    },
+    "units": [
+      {
+        "name": "Double Room",
+        "livingrooms": 0,
+        "maxChildren": 0,
+        "bathrooms": 0,
+        "maxAdults": 2,
+        "bedConfigurations": [
+          {
+            "allBeds": 1,
+            "beds": [
+              {
+                "type": 2,
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "unitId": 299283002,
+        "units": 1,
+        "bedrooms": 0,
+        "allBeds": 1,
+        "kitchens": 0
+      }
+    ]
+  }
+},
+{
+  "id": 8243399,
+  "url": "https://www.booking.com/hotel/ma/de-paris-casablanca.html",
+  "ufi": -28159,
+  "name": "Hotel de paris",
+  "rating": 3,
+  "address": {
+    "street": "2 rue cherif Ameziane ex Branly Prine mly Abdellah centre ville",
+    "city": "Casablanca",
+    "latitude": 33.5923491840401,
+    "country": "ma",
+    "longitude": -7.61605891091156
+  },
+  "type": "Hotels",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/344329764.jpg?k=3a1b7d5d408fa51367378613e4d770ce88f759f1011d600c85f10d742c911a2c&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/344329764.jpg?k=3a1b7d5d408fa51367378613e4d770ce88f759f1011d600c85f10d742c911a2c&o="
+  },
+  "location": {
+    "name": "Sidi Belyout, Casablanca",
+    "distance": "300 feet from center"
+  },
+  "reviews": {
+    "count": 1852,
+    "score": 8.4,
+    "text": "Very Good",
+    "secondary": {
+      "score": 0
+    }
+  },
+  "sustainability": {
+    "facilities": [
+      436,
+      444,
+      445,
+      491,
+      492,
+      493,
+      494,
+      495,
+      497,
+      506
+    ],
+    "sustainable": true,
+    "tier": "SILVER"
+  },
+  "price": {
+    "summary": {
+      "amount": 45.6497099936775,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "blocks": [
+    {
+      "roomId": "824339903",
+      "mealPlanId": 2,
+      "occupancy": 0,
+      "original": {
+        "amount": 41.4,
+        "currency": "EUR"
+      },
+      "final": {
+        "currency": "USD",
+        "amount": 45.6497099936775
+      }
+    }
+  ],
+  "configuration": {
+    "common": {
+      "maxChildren": 0,
+      "livingrooms": 0,
+      "maxAdults": 1,
+      "bathrooms": 0,
+      "units": 1,
+      "bedConfigurations": [
+        {
+          "allBeds": 1,
+          "beds": [
+            {
+              "count": 1,
+              "type": 1
+            }
+          ]
+        }
+      ],
+      "unitId": 0,
+      "allBeds": 1,
+      "bedrooms": 0,
+      "kitchens": 0
+    },
+    "units": [
+      {
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "count": 1,
+                "type": 1
+              }
+            ],
+            "allBeds": 1
+          }
+        ],
+        "unitId": 824339903,
+        "units": 1,
+        "bedrooms": 0,
+        "allBeds": 1,
+        "kitchens": 0,
+        "livingrooms": 0,
+        "name": "Single Room",
+        "maxChildren": 0,
+        "bathrooms": 0,
+        "maxAdults": 1
+      }
+    ]
+  }
+}]

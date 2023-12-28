@@ -1,0 +1,701 @@
+[{
+  "id": 476820,
+  "url": "https://www.booking.com/hotel/ma/mira-palace.html",
+  "ufi": -23182,
+  "name": "Mira Palace",
+  "rating": 4,
+  "address": {
+    "latitude": 35.2492333744531,
+    "street": "Zone Mirador",
+    "city": "Al Hoceima",
+    "country": "ma",
+    "longitude": -3.94552677869797
+  },
+  "type": "Hotels",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/142557848.jpg?k=1cb1e238a0073aacd8b56a55db35962845d12e7beca33e278fd72e8085f8cc61&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/142557848.jpg?k=1cb1e238a0073aacd8b56a55db35962845d12e7beca33e278fd72e8085f8cc61&o="
+  },
+  "location": {
+    "name": "Al Hoceïma",
+    "beach": "1,400 feet from beach",
+    "distance": "0.7 miles from center"
+  },
+  "reviews": {
+    "count": 193,
+    "score": 8.5,
+    "text": "Very Good",
+    "secondary": {
+      "score": 0
+    }
+  },
+  "sustainability": {
+    "facilities": [
+      439,
+      440,
+      442,
+      443,
+      444,
+      445,
+      448,
+      492,
+      493,
+      494,
+      496,
+      500
+    ],
+    "sustainable": true,
+    "tier": "SILVER"
+  },
+  "price": {
+    "summary": {
+      "amount": 111.643312484537,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "freeCancellation": true
+  },
+  "meals": "Breakfast included",
+  "blocks": [
+    {
+      "roomId": "47682004",
+      "mealPlanId": 41,
+      "occupancy": 0,
+      "original": {
+        "currency": "EUR",
+        "amount": 101.25
+      },
+      "final": {
+        "amount": 111.643312484537,
+        "currency": "USD"
+      },
+      "freeCancellationUntil": "2024-09-04T23:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "allBeds": 1,
+      "maxChildren": 0,
+      "bedConfigurations": [
+        {
+          "allBeds": 1,
+          "beds": [
+            {
+              "count": 1,
+              "type": 1
+            }
+          ]
+        }
+      ],
+      "kitchens": 0,
+      "bathrooms": 0,
+      "bedrooms": 0,
+      "livingrooms": 0,
+      "unitId": 0,
+      "maxAdults": 1,
+      "units": 1
+    },
+    "units": [
+      {
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "type": 1,
+                "count": 1
+              }
+            ],
+            "allBeds": 1
+          }
+        ],
+        "maxChildren": 0,
+        "kitchens": 0,
+        "allBeds": 1,
+        "maxAdults": 1,
+        "unitId": 47682004,
+        "livingrooms": 0,
+        "name": "Standard Single Room with Sea View",
+        "units": 1,
+        "bathrooms": 0,
+        "bedrooms": 0
+      }
+    ]
+  }
+},
+{
+  "id": 640379,
+  "url": "https://www.booking.com/hotel/ma/mercure-quemado-al-hoceima-resort.html",
+  "ufi": -23182,
+  "name": "Mercure Quemado Al-Hoceima Resort",
+  "rating": 4,
+  "address": {
+    "longitude": -3.92756134271622,
+    "country": "ma",
+    "latitude": 35.2443880116668,
+    "city": "Al Hoceima",
+    "street": "Place Mohammed VI"
+  },
+  "type": "Hotels",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/211309087.jpg?k=6d128bac6480dd61d1b7fb1334162f906f11830c0f87fc6002ac70a9c9760295&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/211309087.jpg?k=6d128bac6480dd61d1b7fb1334162f906f11830c0f87fc6002ac70a9c9760295&o="
+  },
+  "location": {
+    "name": "Al Hoceïma",
+    "beach": "Beachfront",
+    "distance": "0.3 miles from center"
+  },
+  "reviews": {
+    "count": 1586,
+    "score": 7.1,
+    "text": "Good",
+    "secondary": {
+      "score": 0
+    }
+  },
+  "sustainability": {
+    "facilities": [
+      436,
+      440,
+      442,
+      443,
+      444,
+      445,
+      446,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      497,
+      498,
+      499,
+      502,
+      503,
+      505,
+      506
+    ],
+    "sustainable": true,
+    "tier": "GOLD"
+  },
+  "price": {
+    "summary": {
+      "amount": 94.3224944602588,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "blocks": [
+    {
+      "roomId": "64037912",
+      "mealPlanId": 2,
+      "occupancy": 2,
+      "original": {
+        "amount": 935,
+        "currency": "MAD"
+      },
+      "final": {
+        "currency": "USD",
+        "amount": 94.3224944602588
+      }
+    }
+  ],
+  "configuration": {
+    "common": {
+      "maxChildren": 0,
+      "bedConfigurations": [
+        {
+          "allBeds": 1,
+          "beds": [
+            {
+              "type": 2,
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "kitchens": 0,
+      "allBeds": 1,
+      "unitId": 0,
+      "livingrooms": 0,
+      "maxAdults": 2,
+      "units": 1,
+      "bathrooms": 0,
+      "bedrooms": 0
+    },
+    "units": [
+      {
+        "bedConfigurations": [
+          {
+            "allBeds": 1,
+            "beds": [
+              {
+                "count": 1,
+                "type": 2
+              }
+            ]
+          }
+        ],
+        "maxChildren": 0,
+        "kitchens": 0,
+        "allBeds": 1,
+        "maxAdults": 2,
+        "livingrooms": 0,
+        "unitId": 64037912,
+        "name": "Standard Double Room Sea Front with Balcony",
+        "units": 1,
+        "bathrooms": 0,
+        "bedrooms": 0
+      }
+    ]
+  }
+},
+{
+  "id": 98329,
+  "url": "https://www.booking.com/hotel/ma/mohammed-v.html",
+  "ufi": -23182,
+  "name": "Suites Hotel Mohammed V by Accor",
+  "rating": 4,
+  "address": {
+    "longitude": -3.92827749252319,
+    "city": "Al Hoceima",
+    "street": "Place De La Marche Verte",
+    "latitude": 35.2458731943257,
+    "country": "ma"
+  },
+  "type": "Hotels",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/140863992.jpg?k=27de68d24003e4782b925803160638384b824e76068da82a49d52e6d5a84eb18&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/140863992.jpg?k=27de68d24003e4782b925803160638384b824e76068da82a49d52e6d5a84eb18&o="
+  },
+  "location": {
+    "name": "Al Hoceïma",
+    "beach": "550 feet from beach",
+    "distance": "0.3 miles from center"
+  },
+  "reviews": {
+    "count": 641,
+    "score": 8.2,
+    "text": "Very Good",
+    "secondary": {
+      "score": 9.3,
+      "text": "Location"
+    }
+  },
+  "sustainability": {
+    "facilities": [
+      436,
+      445,
+      489,
+      491,
+      492,
+      495,
+      502
+    ],
+    "tier": "NONE"
+  },
+  "price": {
+    "summary": {
+      "amount": 132.317999981674,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "meals": "Breakfast included",
+  "blocks": [
+    {
+      "roomId": "9832916",
+      "mealPlanId": 41,
+      "occupancy": 0,
+      "original": {
+        "currency": "EUR",
+        "amount": 120
+      },
+      "final": {
+        "amount": 132.317999981674,
+        "currency": "USD"
+      }
+    }
+  ],
+  "configuration": {
+    "common": {
+      "bedConfigurations": [
+        {
+          "allBeds": 1,
+          "beds": [
+            {
+              "count": 1,
+              "type": 6
+            }
+          ]
+        }
+      ],
+      "maxChildren": 0,
+      "kitchens": 0,
+      "allBeds": 1,
+      "maxAdults": 1,
+      "livingrooms": 1,
+      "unitId": 0,
+      "unitTypeNames": [
+        {
+          "translation": "Private suite"
+        }
+      ],
+      "units": 1,
+      "bathrooms": 1,
+      "area": {
+        "unit": "feet²",
+        "area": "430.6"
+      },
+      "bedrooms": 1
+    },
+    "units": [
+      {
+        "bedConfigurations": [
+          {
+            "allBeds": 1,
+            "beds": [
+              {
+                "type": 6,
+                "count": 1
+              }
+            ]
+          }
+        ],
+        "maxChildren": 0,
+        "kitchens": 0,
+        "allBeds": 1,
+        "maxAdults": 1,
+        "name": "Suite with Sea View",
+        "unitId": 9832916,
+        "livingrooms": 1,
+        "unitTypeNames": [
+          {
+            "translation": "Private suite"
+          }
+        ],
+        "units": 1,
+        "apartmentRooms": [
+          {
+            "config": {
+              "bedCount": 1,
+              "roomId": 59466968,
+              "roomType": "Bedroom",
+              "bedTypeId": 6
+            }
+          },
+          {
+            "config": {
+              "roomType": "Living Room",
+              "bedTypeId": 0,
+              "bedCount": 0,
+              "roomId": 59466969
+            }
+          }
+        ],
+        "bathrooms": 1,
+        "area": {
+          "unit": "feet²",
+          "area": "430.6"
+        },
+        "bedrooms": 1
+      }
+    ]
+  }
+},
+{
+  "id": 7613698,
+  "url": "https://www.booking.com/hotel/ma/radisson-blu-resort-al-hoceima.html",
+  "ufi": -23182,
+  "name": "Radisson Blu Resort Al Hoceima",
+  "rating": 5,
+  "address": {
+    "country": "ma",
+    "latitude": 35.2033526931058,
+    "street": "Plage Sfiha KM 7 Hotel, Al Hoceima, MA",
+    "city": "Al Hoceima",
+    "longitude": -3.88636447341918
+  },
+  "type": "Hotels",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/316219136.jpg?k=45bffb922dd8df93bb3a5851396823134eca21c2276a838a5af8afbb582c1077&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/316219136.jpg?k=45bffb922dd8df93bb3a5851396823134eca21c2276a838a5af8afbb582c1077&o="
+  },
+  "location": {
+    "name": "Al Hoceïma",
+    "beach": "Beachfront",
+    "distance": "4 miles from center"
+  },
+  "reviews": {
+    "count": 1529,
+    "score": 7.9,
+    "text": "Good",
+    "secondary": {
+      "score": 0
+    }
+  },
+  "sustainability": {
+    "facilities": [
+      436,
+      439,
+      445,
+      448,
+      489,
+      491,
+      492,
+      496,
+      500,
+      501,
+      506
+    ],
+    "tier": "NONE"
+  },
+  "price": {
+    "summary": {
+      "amount": 156.16173414383,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "meals": "Breakfast included",
+  "blocks": [
+    {
+      "roomId": "761369806",
+      "mealPlanId": 1,
+      "occupancy": 1,
+      "original": {
+        "currency": "MAD",
+        "amount": 1548
+      },
+      "final": {
+        "currency": "USD",
+        "amount": 156.16173414383
+      }
+    }
+  ],
+  "configuration": {
+    "common": {
+      "bathrooms": 0,
+      "bedrooms": 0,
+      "maxAdults": 1,
+      "livingrooms": 0,
+      "unitId": 0,
+      "units": 1,
+      "allBeds": 1,
+      "bedConfigurations": [
+        {
+          "allBeds": 1,
+          "beds": [
+            {
+              "count": 1,
+              "type": 3
+            }
+          ]
+        }
+      ],
+      "maxChildren": 0,
+      "kitchens": 0
+    },
+    "units": [
+      {
+        "bathrooms": 0,
+        "bedrooms": 0,
+        "maxAdults": 1,
+        "name": "Standard Room - Balcony or Terrace",
+        "unitId": 761369806,
+        "livingrooms": 0,
+        "units": 1,
+        "allBeds": 1,
+        "bedConfigurations": [
+          {
+            "allBeds": 1,
+            "beds": [
+              {
+                "count": 1,
+                "type": 3
+              }
+            ]
+          }
+        ],
+        "maxChildren": 0,
+        "kitchens": 0
+      }
+    ]
+  }
+},
+{
+  "id": 4923644,
+  "url": "https://www.booking.com/hotel/ma/royal-rif.html",
+  "ufi": -23182,
+  "name": "Royal Rif Al Hoceima",
+  "rating": 3,
+  "address": {
+    "latitude": 35.1933979852161,
+    "street": "N2",
+    "city": "Ajdir",
+    "country": "ma",
+    "longitude": -3.89287717980957
+  },
+  "type": "Condo Hotels",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/474448646.jpg?k=ab61b8b17ab2a094196332a84226d8b5edbe9cc953100cbc63dedbedf7ba782f&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/474448646.jpg?k=ab61b8b17ab2a094196332a84226d8b5edbe9cc953100cbc63dedbedf7ba782f&o="
+  },
+  "location": {
+    "name": "Al Hoceïma",
+    "beach": "4,750 feet from beach",
+    "distance": "4.3 miles from center"
+  },
+  "reviews": {
+    "count": 196,
+    "score": 8.7,
+    "text": "Excellent",
+    "secondary": {
+      "score": 0
+    }
+  },
+  "preferred": true,
+  "plus": true,
+  "sustainability": {
+    "tier": "NONE"
+  },
+  "price": {
+    "summary": {
+      "amount": 198.476999972511,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "freeCancellation": true
+  },
+  "blocks": [
+    {
+      "roomId": "492364415",
+      "mealPlanId": 0,
+      "occupancy": 4,
+      "original": {
+        "currency": "EUR",
+        "amount": 180
+      },
+      "final": {
+        "amount": 198.476999972511,
+        "currency": "USD"
+      },
+      "freeCancellationUntil": "2024-09-04T23:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "kitchens": 0,
+      "bedConfigurations": [
+        {
+          "beds": [
+            {
+              "type": 1,
+              "count": 2
+            },
+            {
+              "type": 2,
+              "count": 1
+            },
+            {
+              "type": 5,
+              "count": 2
+            }
+          ],
+          "allBeds": 5
+        }
+      ],
+      "maxChildren": 0,
+      "allBeds": 5,
+      "unitTypeNames": [
+        {
+          "translation": "Entire apartment"
+        }
+      ],
+      "units": 1,
+      "maxAdults": 4,
+      "livingrooms": 1,
+      "unitId": 0,
+      "area": {
+        "area": "968.8",
+        "unit": "feet²"
+      },
+      "bedrooms": 2,
+      "bathrooms": 2
+    },
+    "units": [
+      {
+        "bathrooms": 2,
+        "bedrooms": 2,
+        "area": {
+          "area": "968.8",
+          "unit": "feet²"
+        },
+        "unitId": 492364415,
+        "livingrooms": 1,
+        "name": "Deluxe Apartment",
+        "maxAdults": 4,
+        "apartmentRooms": [
+          {
+            "config": {
+              "roomId": 79820987,
+              "bedCount": 2,
+              "bedTypeId": 1,
+              "roomType": "Bedroom"
+            }
+          },
+          {
+            "config": {
+              "bedTypeId": 2,
+              "roomType": "Bedroom",
+              "roomId": 79820986,
+              "bedCount": 1
+            }
+          },
+          {
+            "config": {
+              "roomType": "Living Room",
+              "bedTypeId": 5,
+              "bedCount": 2,
+              "roomId": 79820988
+            }
+          }
+        ],
+        "units": 1,
+        "unitTypeNames": [
+          {
+            "translation": "Entire apartment"
+          }
+        ],
+        "allBeds": 5,
+        "maxChildren": 0,
+        "bedConfigurations": [
+          {
+            "allBeds": 5,
+            "beds": [
+              {
+                "type": 1,
+                "count": 2
+              },
+              {
+                "count": 1,
+                "type": 2
+              },
+              {
+                "count": 2,
+                "type": 5
+              }
+            ]
+          }
+        ],
+        "kitchens": 0
+      }
+    ]
+  }
+}]

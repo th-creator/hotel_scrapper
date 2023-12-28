@@ -45,43 +45,41 @@ const generate = async (data) => {
 }
 
 const filterData = async () => {
-    const dataHolder = allData.map(async (res, index) => {
+    const dataHolder = []
+    allData.map(async (res, index) => {
         try {
-            const response = await axios.get(res.url);
-            const $ = cheerio.load(response.data);
-            $('script').remove();
-            $('iframe').remove();
-            let price = $('body').text().replace(/\n/g, ' ');
-            const dataString = JSON.stringify(price, null, 2);
-            let infrastructure = res.facilities.map(e => e.name).join(' / ');
-            let generated = await generate(dataString);
-            return {
+            // const response = await axios.get(res.url);
+            // const $ = cheerio.load(response.data);
+            // $('script').remove();
+            // $('iframe').remove();
+            // let price = $('body').text().replace(/\n/g, ' ');
+            // const dataString = JSON.stringify(price, null, 2);
+            // let infrastructure = res.facilities.map(e => e.name).join(' / ');
+            // let generated = await generate(dataString);
+            dataHolder.push({
                 id: index,
                 name: res.name,
+                proprietaire: res.name,
                 url: res.url,
                 type: res.type,
                 description: res.description,
-                stars: res.stars,
-                price: generated[0].price,
-                note: res.rating,
-                starts: res.rating,
-                reviews: res.reviews,
-                checkIn: res.checkIn,
-                checkOut: res.checkOut,
-                email: res.checkOut,
-                address: res.address.full,
+                stars: res.reviews.score/2,
+                price: res.price && (parseFloat((res.price.summary.amount * 9.88).toFixed(2)))+' '+'MAD',
+                note: res.reviews.score,
+                reviews: res.reviews.count && res.reviews.count,
+                address: res.address.street,
                 rooms: res.rooms,
-                region: res.address.region,
-                roomNumber: res.rooms.length,
-                longitude: res.location.lng,
-                lattitude: res.location.lat,
-                infrastructure: infrastructure
-            };
+                region: res.location.name,
+                // roomNumber: res.rooms.length,
+                longitude: res.address.longitude,
+                lattitude: res.address.latitude,
+                // infrastructure: infrastructure
+            });
         } catch (error) {
             console.error(`Failed to process data for index ${index}: ${error}`);
         }
     });
-    let dataStrings = JSON.stringify(await Promise.all(dataHolder.filter(Boolean)), null, 2);
+    let dataStrings = JSON.stringify(dataHolder, null, 2);
     console.log(dataStrings);
     fs.writeFileSync('postHolder.json', dataStrings); // Write the data to a file
 }

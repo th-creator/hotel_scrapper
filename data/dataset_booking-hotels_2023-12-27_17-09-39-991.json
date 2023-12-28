@@ -1,0 +1,636 @@
+[{
+  "id": 1447034,
+  "url": "https://www.booking.com/hotel/ma/riad-meftaha.html",
+  "ufi": -43376,
+  "name": "Riad Meftaha",
+  "rating": 3,
+  "address": {
+    "city": "Rabat",
+    "country": "ma",
+    "longitude": -6.84252977371216,
+    "street": "15 rue Iran, quartier Marassa Océan",
+    "latitude": 34.0255077931538
+  },
+  "type": "Riads",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/289872964.jpg?k=cf13bc517b19bb2f3d22eb2e41624bc8f105dcc598911255b1ce3ff0fbb82a9e&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/289872964.jpg?k=cf13bc517b19bb2f3d22eb2e41624bc8f105dcc598911255b1ce3ff0fbb82a9e&o="
+  },
+  "location": {
+    "name": "L'Ocean, Rabat",
+    "beach": "2,100 feet from beach",
+    "distance": "0.9 miles from center"
+  },
+  "reviews": {
+    "count": 1084,
+    "score": 9.2,
+    "text": "Wonderful",
+    "secondary": {
+      "score": 9.4,
+      "text": "Location"
+    }
+  },
+  "preferred": true,
+  "sustainability": {
+    "facilities": [
+      435,
+      436,
+      439,
+      440,
+      443,
+      445,
+      448,
+      489,
+      491,
+      492,
+      493,
+      494,
+      496,
+      499,
+      500,
+      501,
+      506
+    ],
+    "sustainable": true,
+    "tier": "SILVER"
+  },
+  "price": {
+    "summary": {
+      "amount": 57.5583299920282,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "freeCancellation": true,
+    "noPrepayment": true
+  },
+  "meals": "Breakfast included",
+  "blocks": [
+    {
+      "roomId": "144703406",
+      "mealPlanId": 1,
+      "occupancy": 0,
+      "original": {
+        "currency": "EUR",
+        "amount": 52.2
+      },
+      "final": {
+        "currency": "USD",
+        "amount": 57.5583299920282
+      },
+      "freeCancellationUntil": "2024-09-02T23:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "allBeds": 1,
+      "units": 1,
+      "bathrooms": 0,
+      "livingrooms": 0,
+      "bedrooms": 0,
+      "unitId": 0,
+      "kitchens": 0,
+      "maxChildren": 0,
+      "bedConfigurations": [
+        {
+          "allBeds": 1,
+          "beds": [
+            {
+              "type": 6,
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "maxAdults": 2
+    },
+    "units": [
+      {
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "count": 1,
+                "type": 6
+              }
+            ],
+            "allBeds": 1
+          }
+        ],
+        "kitchens": 0,
+        "maxChildren": 0,
+        "maxAdults": 2,
+        "livingrooms": 0,
+        "bathrooms": 0,
+        "units": 1,
+        "allBeds": 1,
+        "name": "R'batia Double Room",
+        "unitId": 144703406,
+        "bedrooms": 0
+      }
+    ]
+  }
+},
+{
+  "id": 2529032,
+  "url": "https://www.booking.com/hotel/ma/dar-shaan.html",
+  "ufi": -43376,
+  "name": "Dar Shâan",
+  "rating": 4,
+  "address": {
+    "city": "Rabat",
+    "country": "ma",
+    "longitude": -6.83762409999997,
+    "latitude": 34.0287695,
+    "street": "Rue Jirari"
+  },
+  "type": "Riads",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/339620256.jpg?k=51b78670a356330356202834960e8bb5b0b8bd05d192975f819c3d6abf470523&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/339620256.jpg?k=51b78670a356330356202834960e8bb5b0b8bd05d192975f819c3d6abf470523&o="
+  },
+  "location": {
+    "name": "Rabat Medina, Rabat",
+    "beach": "1,450 feet from beach",
+    "distance": "1 miles from center"
+  },
+  "reviews": {
+    "count": 886,
+    "score": 9.1,
+    "text": "Wonderful",
+    "secondary": {
+      "score": 9.5,
+      "text": "Location"
+    }
+  },
+  "preferred": true,
+  "sustainability": {
+    "facilities": [
+      436,
+      439,
+      440,
+      441,
+      442,
+      443,
+      445,
+      446,
+      448,
+      489,
+      491,
+      492,
+      493,
+      499,
+      502,
+      504,
+      505
+    ],
+    "sustainable": true,
+    "tier": "GOLD"
+  },
+  "price": {
+    "summary": {
+      "amount": 113.131889984331,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "meals": "Breakfast included",
+  "blocks": [
+    {
+      "roomId": "252903201",
+      "mealPlanId": 41,
+      "occupancy": 1,
+      "original": {
+        "amount": 102.6,
+        "currency": "EUR"
+      },
+      "final": {
+        "amount": 113.131889984331,
+        "currency": "USD"
+      }
+    }
+  ],
+  "configuration": {
+    "common": {
+      "maxAdults": 1,
+      "bedConfigurations": [
+        {
+          "allBeds": 1,
+          "beds": [
+            {
+              "type": 6,
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "maxChildren": 0,
+      "kitchens": 0,
+      "unitId": 0,
+      "bedrooms": 0,
+      "livingrooms": 0,
+      "bathrooms": 0,
+      "units": 1,
+      "allBeds": 1
+    },
+    "units": [
+      {
+        "maxAdults": 1,
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "count": 1,
+                "type": 6
+              }
+            ],
+            "allBeds": 1
+          }
+        ],
+        "maxChildren": 0,
+        "kitchens": 0,
+        "name": "Double Room",
+        "unitId": 252903201,
+        "bedrooms": 0,
+        "livingrooms": 0,
+        "bathrooms": 0,
+        "units": 1,
+        "allBeds": 1
+      }
+    ]
+  }
+},
+{
+  "id": 582444,
+  "url": "https://www.booking.com/hotel/ma/riad-amaris.html",
+  "ufi": -43376,
+  "name": "Riad Amaris",
+  "rating": 3,
+  "address": {
+    "longitude": -6.84018418192863,
+    "street": "10, avenue Lalla Hanou",
+    "latitude": 34.0250832021294,
+    "city": "Rabat",
+    "country": "ma"
+  },
+  "type": "Riads",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/323409617.jpg?k=a46edefddced34546967d9863e7a156800f8f8c991713cce3e1244c3ecb066e3&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/323409617.jpg?k=a46edefddced34546967d9863e7a156800f8f8c991713cce3e1244c3ecb066e3&o="
+  },
+  "location": {
+    "name": "Rabat Medina, Rabat",
+    "beach": "2,450 feet from beach",
+    "distance": "0.8 miles from center"
+  },
+  "reviews": {
+    "count": 696,
+    "score": 9.3,
+    "text": "Wonderful",
+    "secondary": {
+      "score": 9.6,
+      "text": "Location"
+    }
+  },
+  "preferred": true,
+  "plus": true,
+  "sustainability": {
+    "facilities": [
+      435,
+      436,
+      439,
+      440,
+      443,
+      445,
+      448,
+      489,
+      491,
+      492,
+      494,
+      497,
+      499,
+      502,
+      505,
+      506
+    ],
+    "sustainable": true,
+    "tier": "GOLD"
+  },
+  "price": {
+    "summary": {
+      "amount": 107.894302485057,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "meals": "Breakfast included",
+  "blocks": [
+    {
+      "roomId": "58244411",
+      "mealPlanId": 1,
+      "occupancy": 0,
+      "original": {
+        "amount": 97.85,
+        "currency": "EUR"
+      },
+      "final": {
+        "amount": 107.894302485057,
+        "currency": "USD"
+      }
+    }
+  ],
+  "configuration": {
+    "common": {
+      "allBeds": 1,
+      "bathrooms": 0,
+      "units": 1,
+      "livingrooms": 0,
+      "bedrooms": 0,
+      "unitId": 0,
+      "maxChildren": 0,
+      "kitchens": 0,
+      "bedConfigurations": [
+        {
+          "beds": [
+            {
+              "type": 6,
+              "count": 1
+            }
+          ],
+          "allBeds": 1
+        }
+      ],
+      "maxAdults": 1
+    },
+    "units": [
+      {
+        "bedrooms": 0,
+        "unitId": 58244411,
+        "name": "Deluxe Room",
+        "allBeds": 1,
+        "units": 1,
+        "bathrooms": 0,
+        "livingrooms": 0,
+        "maxAdults": 1,
+        "maxChildren": 0,
+        "kitchens": 0,
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "type": 6,
+                "count": 1
+              }
+            ],
+            "allBeds": 1
+          }
+        ]
+      }
+    ]
+  }
+},
+{
+  "id": 391321,
+  "url": "https://www.booking.com/hotel/ma/dar-yanis.html",
+  "ufi": -43376,
+  "name": "Dar Yanis",
+  "rating": 3,
+  "address": {
+    "city": "Rabat",
+    "country": "ma",
+    "latitude": 34.0249942822742,
+    "longitude": -6.84047520160675,
+    "street": "20 rue Lalla Hannou Legza"
+  },
+  "type": "Riads",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/24413634.jpg?k=f3ed59a0983d5f81393b3e4e04cfe1cd4c2438fe4ff3c9f84324510168ed8815&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/24413634.jpg?k=f3ed59a0983d5f81393b3e4e04cfe1cd4c2438fe4ff3c9f84324510168ed8815&o="
+  },
+  "location": {
+    "name": "Rabat Medina, Rabat",
+    "beach": "2,450 feet from beach",
+    "distance": "0.8 miles from center"
+  },
+  "reviews": {
+    "count": 1134,
+    "score": 8.7,
+    "text": "Excellent",
+    "secondary": {
+      "score": 9.5,
+      "text": "Location"
+    }
+  },
+  "preferred": true,
+  "sustainability": {
+    "tier": "NONE"
+  },
+  "price": {
+    "discounts": [
+      {
+        "amount": 11.0264999984728,
+        "currency": "USD",
+        "text": "Bonus savings"
+      }
+    ],
+    "original": {
+      "amount": 55.1324999923641,
+      "currency": "USD",
+      "text": "$55.13 × 1 night"
+    },
+    "summary": {
+      "amount": 44.1059999938913,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "freeCancellation": true,
+    "noPrepayment": true
+  },
+  "meals": "Breakfast included",
+  "blocks": [
+    {
+      "roomId": "39132107",
+      "mealPlanId": 1,
+      "occupancy": 0,
+      "original": {
+        "amount": 40,
+        "currency": "EUR"
+      },
+      "final": {
+        "currency": "USD",
+        "amount": 44.1059999938913
+      },
+      "freeCancellationUntil": "2024-09-02T23:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "bedrooms": 0,
+      "unitId": 0,
+      "allBeds": 1,
+      "units": 1,
+      "bathrooms": 0,
+      "livingrooms": 0,
+      "maxAdults": 1,
+      "kitchens": 0,
+      "maxChildren": 0,
+      "bedConfigurations": [
+        {
+          "allBeds": 1,
+          "beds": [
+            {
+              "count": 1,
+              "type": 1
+            }
+          ]
+        }
+      ]
+    },
+    "units": [
+      {
+        "allBeds": 1,
+        "units": 1,
+        "bathrooms": 0,
+        "livingrooms": 0,
+        "bedrooms": 0,
+        "unitId": 39132107,
+        "name": "Thym Single Room",
+        "maxChildren": 0,
+        "kitchens": 0,
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "count": 1,
+                "type": 1
+              }
+            ],
+            "allBeds": 1
+          }
+        ],
+        "maxAdults": 1
+      }
+    ]
+  }
+},
+{
+  "id": 10076823,
+  "url": "https://www.booking.com/hotel/ma/dar-mounia-rabat.html",
+  "ufi": -43376,
+  "name": "Dar Mounia",
+  "rating": 3,
+  "address": {
+    "latitude": 34.0294469,
+    "longitude": -6.8354788,
+    "street": "Route des Oudayas",
+    "city": "Rabat",
+    "country": "ma"
+  },
+  "type": "Bed and Breakfasts",
+  "photos": {
+    "hi": "https://t-cf.bstatic.com/xdata/images/hotel/square600/500140954.jpg?k=2123582502dd117848f82ea0e1e35f69abbfe4d1f019d336977854139a43bb0f&o=",
+    "lo": "https://t-cf.bstatic.com/xdata/images/hotel/square200/500140954.jpg?k=2123582502dd117848f82ea0e1e35f69abbfe4d1f019d336977854139a43bb0f&o="
+  },
+  "location": {
+    "name": "Rabat Medina, Rabat",
+    "beach": "1,300 feet from beach",
+    "distance": "1.1 miles from center"
+  },
+  "reviews": {
+    "count": 87,
+    "score": 9.7,
+    "text": "Exceptional",
+    "secondary": {
+      "score": 9.9,
+      "text": "Location"
+    }
+  },
+  "externalReviews": {
+    "count": 3,
+    "score": 9,
+    "text": "Wonderful"
+  },
+  "preferred": true,
+  "sustainability": {
+    "tier": "NONE"
+  },
+  "price": {
+    "summary": {
+      "amount": 110.264999984728,
+      "currency": "USD",
+      "text": "Total"
+    }
+  },
+  "policies": {
+    "freeCancellation": true
+  },
+  "meals": "Breakfast included",
+  "blocks": [
+    {
+      "roomId": "1007682301",
+      "mealPlanId": 1,
+      "occupancy": 2,
+      "original": {
+        "amount": 100,
+        "currency": "EUR"
+      },
+      "final": {
+        "currency": "USD",
+        "amount": 110.264999984728
+      },
+      "freeCancellationUntil": "2024-08-22T23:00:00Z"
+    }
+  ],
+  "configuration": {
+    "common": {
+      "maxChildren": 0,
+      "kitchens": 0,
+      "bedConfigurations": [
+        {
+          "allBeds": 1,
+          "beds": [
+            {
+              "type": 5,
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "maxAdults": 2,
+      "allBeds": 1,
+      "units": 1,
+      "bathrooms": 0,
+      "livingrooms": 0,
+      "bedrooms": 0,
+      "unitId": 0
+    },
+    "units": [
+      {
+        "name": "Double Room with Private Bathroom",
+        "unitId": 1007682301,
+        "bedrooms": 0,
+        "livingrooms": 0,
+        "units": 1,
+        "bathrooms": 0,
+        "allBeds": 1,
+        "maxAdults": 2,
+        "bedConfigurations": [
+          {
+            "beds": [
+              {
+                "type": 5,
+                "count": 1
+              }
+            ],
+            "allBeds": 1
+          }
+        ],
+        "maxChildren": 0,
+        "kitchens": 0
+      }
+    ]
+  }
+}]
